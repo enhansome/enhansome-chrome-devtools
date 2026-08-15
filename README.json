@@ -166,10 +166,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T19:02:54Z",
+            "last_commit": "2026-08-14T12:55:59Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95459
+            "stars": 95462
           }
         },
         {
@@ -180,10 +180,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T22:03:51Z",
+            "last_commit": "2026-08-15T00:19:07Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94495
+            "stars": 94531
           }
         }
       ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-07-14T21:56:36Z",
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 13251
+            "stars": 13252
           }
         },
         {
@@ -256,10 +256,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T23:29:43Z",
+            "last_commit": "2026-08-14T21:47:25Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
-            "stars": 3913
+            "stars": 3914
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-07-24T08:36:59Z",
             "owner": "fanyong920",
             "repo": "jvppeteer",
-            "stars": 806
+            "stars": 807
           }
         },
         {
@@ -410,7 +410,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T03:02:05Z",
+            "last_commit": "2026-08-15T03:02:03Z",
             "owner": "jakubkulhan",
             "repo": "chrome-devtools-protocol",
             "stars": 185
@@ -592,7 +592,7 @@
             "last_commit": "2024-10-26T03:44:45Z",
             "owner": "facebook",
             "repo": "stetho",
-            "stars": 12660
+            "stars": 12658
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-08-13T14:55:33Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3892
+            "stars": 3895
           }
         },
         {
@@ -704,7 +704,7 @@
             "last_commit": "2024-09-11T14:49:24Z",
             "owner": "vuejs",
             "repo": "devtools-v6",
-            "stars": 24703
+            "stars": 24701
           }
         },
         {
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:18:14.341Z",
+    "last_updated": "2026-08-15T05:29:45.618Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
     "enhanced_repository": "enhansome/enhansome-chrome-devtools",
