@@ -169,7 +169,7 @@
             "last_commit": "2026-08-16T03:04:57Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95461
+            "stars": 95467
           }
         },
         {
@@ -180,10 +180,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:19:07Z",
+            "last_commit": "2026-08-16T22:43:54Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94561
+            "stars": 94601
           }
         }
       ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-07-14T21:56:36Z",
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 13252
+            "stars": 13254
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2026-08-11T02:18:57Z",
             "owner": "go-rod",
             "repo": "rod",
-            "stars": 7061
+            "stars": 7062
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-03T08:05:41Z",
             "owner": "getgauge",
             "repo": "taiko",
-            "stars": 3673
+            "stars": 3672
           }
         },
         {
@@ -298,7 +298,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-07-09T21:03:59Z",
+            "last_commit": "2026-08-16T20:59:41Z",
             "owner": "rubycdp",
             "repo": "cuprite",
             "stars": 1397
@@ -592,7 +592,7 @@
             "last_commit": "2024-10-26T03:44:45Z",
             "owner": "facebook",
             "repo": "stetho",
-            "stars": 12658
+            "stars": 12657
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2022-05-26T07:03:35Z",
             "owner": "GoogleChromeLabs",
             "repo": "ndb",
-            "stars": 10872
+            "stars": 10871
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-08-13T14:55:33Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3895
+            "stars": 3896
           }
         },
         {
@@ -704,7 +704,7 @@
             "last_commit": "2024-09-11T14:49:24Z",
             "owner": "vuejs",
             "repo": "devtools-v6",
-            "stars": 24702
+            "stars": 24703
           }
         },
         {
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:32:56.038Z",
+    "last_updated": "2026-08-17T05:39:08.795Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
     "enhanced_repository": "enhansome/enhansome-chrome-devtools",
