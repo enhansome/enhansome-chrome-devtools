@@ -166,10 +166,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:04:58Z",
+            "last_commit": "2026-08-18T19:02:43Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95460
+            "stars": 95462
           }
         },
         {
@@ -180,10 +180,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T03:46:31Z",
+            "last_commit": "2026-08-19T02:41:05Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94656
+            "stars": 94712
           }
         }
       ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-07-14T21:56:36Z",
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 13253
+            "stars": 13257
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2026-08-11T02:18:57Z",
             "owner": "go-rod",
             "repo": "rod",
-            "stars": 7063
+            "stars": 7064
           }
         },
         {
@@ -284,10 +284,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T06:59:32Z",
+            "last_commit": "2026-08-18T20:06:53Z",
             "owner": "rubycdp",
             "repo": "ferrum",
-            "stars": 2036
+            "stars": 2037
           }
         },
         {
@@ -410,7 +410,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T03:01:59Z",
+            "last_commit": "2026-08-19T03:02:07Z",
             "owner": "jakubkulhan",
             "repo": "chrome-devtools-protocol",
             "stars": 185
@@ -508,7 +508,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T04:43:22Z",
+            "last_commit": "2026-08-19T04:44:43Z",
             "owner": "joffrey-bion",
             "repo": "chrome-devtools-kotlin",
             "stars": 61
@@ -592,7 +592,7 @@
             "last_commit": "2024-10-26T03:44:45Z",
             "owner": "facebook",
             "repo": "stetho",
-            "stars": 12657
+            "stars": 12656
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-08-13T14:55:33Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3897
+            "stars": 3898
           }
         },
         {
@@ -704,7 +704,7 @@
             "last_commit": "2024-09-11T14:49:24Z",
             "owner": "vuejs",
             "repo": "devtools-v6",
-            "stars": 24703
+            "stars": 24704
           }
         },
         {
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:34:35.266Z",
+    "last_updated": "2026-08-19T05:35:02.656Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
     "enhanced_repository": "enhansome/enhansome-chrome-devtools",
