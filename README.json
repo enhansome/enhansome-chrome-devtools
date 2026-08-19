@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627502627,
             "language": "JavaScript",
             "last_commit": "2026-07-30T22:47:01Z",
             "owner": "sparkyrider",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1133519076,
             "language": null,
             "last_commit": "2026-06-23T15:00:50Z",
             "owner": "lala-hakobyan",
@@ -35,776 +37,846 @@
       "title": "Learning"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cpuprofilify",
+              "description": "Converts output of various profiling/sampling tools to the format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30001564,
+                "language": "JavaScript",
+                "last_commit": "2017-04-20T14:35:08Z",
+                "owner": "thlorenz",
+                "repo": "cpuprofilify",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "call-trace",
+              "description": "Can instrument your JS with hooks, and then generate a of the of the complete (non-sampled) execution. View either time or call counts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51510718,
+                "language": "JavaScript",
+                "last_commit": "2024-03-01T01:50:53Z",
+                "owner": "brendankenny",
+                "repo": "call-trace",
+                "stars": 43
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CPU profile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VS Code - Debugger for Chrome",
+              "description": "Breakpoint debugging in VS Code.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45425758,
+                "language": "TypeScript",
+                "last_commit": "2022-12-02T15:12:33Z",
+                "owner": "microsoft",
+                "repo": "vscode-chrome-debug",
+                "stars": 2201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VS Code - Elements for Microsoft Edge",
+              "description": "Elements panel inside VS Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175666043,
+                "language": "TypeScript",
+                "last_commit": "2026-02-14T03:51:52Z",
+                "owner": "microsoft",
+                "repo": "vscode-edge-devtools",
+                "stars": 823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChromeREPL",
+              "description": "Within Sublime Text, use the Chrome console.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122009429,
+                "language": "Python",
+                "last_commit": "2018-06-12T20:47:36Z",
+                "owner": "acarabott",
+                "repo": "ChromeREPL",
+                "stars": 357
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chrome Debugger integration with Editors"
+        }
+      ],
       "title": "DevTools tooling and ecosystem"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "cpuprofilify",
-          "description": "Converts output of various profiling/sampling tools to the format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-04-20T14:35:08Z",
-            "owner": "thlorenz",
-            "repo": "cpuprofilify",
-            "stars": 169
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chrome-remote-interface Wiki",
+              "description": "Many useful recipes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9503997,
+                "language": "JavaScript",
+                "last_commit": "2026-02-09T09:02:35Z",
+                "owner": "cyrus-and",
+                "repo": "chrome-remote-interface",
+                "stars": 4552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chrome Protocol Proxy",
+              "description": "Tool for debugging clients using devtools protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88489724,
+                "language": "Go",
+                "last_commit": "2025-01-31T09:09:45Z",
+                "owner": "wendigo",
+                "repo": "chrome-protocol-proxy",
+                "stars": 251
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Developing with the protocol"
         },
         {
-          "node_type": "item",
-          "title": "call-trace",
-          "description": "Can instrument your JS with hooks, and then generate a of the of the complete (non-sampled) execution. View either time or call counts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-01T01:50:53Z",
-            "owner": "brendankenny",
-            "repo": "call-trace",
-            "stars": 43
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Puppeteer",
+              "description": "Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also awesome-puppeteer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90796663,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:09:48Z",
+                "owner": "puppeteer",
+                "repo": "puppeteer",
+                "stars": 95465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Playwright",
+              "description": "Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also awesome-playwright.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221981891,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:44:48Z",
+                "owner": "microsoft",
+                "repo": "playwright",
+                "stars": 94729
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "The big two automation libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go: chromedp",
+              "description": "High-level actions and tasks for driving browsers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79921099,
+                "language": "Go",
+                "last_commit": "2026-07-14T21:56:36Z",
+                "owner": "chromedp",
+                "repo": "chromedp",
+                "stars": 13258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go: Rod",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235431922,
+                "language": "Go",
+                "last_commit": "2026-08-11T02:18:57Z",
+                "owner": "go-rod",
+                "repo": "rod",
+                "stars": 7064
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript/Node.js: chrome-remote-interface",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9503997,
+                "language": "JavaScript",
+                "last_commit": "2026-02-09T09:02:35Z",
+                "owner": "cyrus-and",
+                "repo": "chrome-remote-interface",
+                "stars": 4552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python: pyppeteer",
+              "description": "Puppeteer port",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237223760,
+                "language": "Python",
+                "last_commit": "2024-06-29T14:49:45Z",
+                "owner": "pyppeteer",
+                "repo": "pyppeteer",
+                "stars": 3941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C#/.NET: Puppeteer Sharp",
+              "description": "Puppeteer port",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105399035,
+                "language": "C#",
+                "last_commit": "2026-08-17T20:54:08Z",
+                "owner": "hardkoded",
+                "repo": "puppeteer-sharp",
+                "stars": 3912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript/Node.js: Taiko",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108502821,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T08:05:41Z",
+                "owner": "getgauge",
+                "repo": "taiko",
+                "stars": 3672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby: Ferrum",
+              "description": "high-level API to control Chrome in Ruby",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198371388,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T20:06:53Z",
+                "owner": "rubycdp",
+                "repo": "ferrum",
+                "stars": 2037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby: Cuprite",
+              "description": "Capybara driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141314250,
+                "language": "Ruby",
+                "last_commit": "2026-08-19T06:10:40Z",
+                "owner": "rubycdp",
+                "repo": "cuprite",
+                "stars": 1397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP: PuPHPeteer",
+              "description": "PHP bridge to node Puppeteer",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 118182130,
+                "language": "PHP",
+                "last_commit": "2023-01-01T15:05:38Z",
+                "owner": "rialto-php",
+                "repo": "puphpeteer",
+                "stars": 1332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java: jvppeteer",
+              "description": "Headless Chrome For Java",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246532147,
+                "language": "Java",
+                "last_commit": "2026-07-24T08:36:59Z",
+                "owner": "fanyong920",
+                "repo": "jvppeteer",
+                "stars": 807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go: cdp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84717184,
+                "language": "Go",
+                "last_commit": "2025-12-07T23:12:56Z",
+                "owner": "mafredri",
+                "repo": "cdp",
+                "stars": 795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go: godet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84689669,
+                "language": "Go",
+                "last_commit": "2026-03-17T05:19:29Z",
+                "owner": "raff",
+                "repo": "godet",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java: chrome-devtools-java-client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120487379,
+                "language": "Java",
+                "last_commit": "2024-07-25T14:53:44Z",
+                "owner": "kklisura",
+                "repo": "chrome-devtools-java-client",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python: ChromeController",
+              "description": "high-level browser mgmt",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72965079,
+                "language": "Python",
+                "last_commit": "2025-05-25T08:10:00Z",
+                "owner": "fake-name",
+                "repo": "ChromeController",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go: gcd",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22304690,
+                "language": "Go",
+                "last_commit": "2024-10-16T04:05:44Z",
+                "owner": "wirepair",
+                "repo": "gcd",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP: chrome-devtools-protocol",
+              "description": "A PHP client library for the protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111571114,
+                "language": "PHP",
+                "last_commit": "2026-08-19T03:02:07Z",
+                "owner": "jakubkulhan",
+                "repo": "chrome-devtools-protocol",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python: PyCDP",
+              "description": "Pure-Python, sans-IO wrappers. See also the Trio CDP driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191049280,
+                "language": "Python",
+                "last_commit": "2026-06-03T23:39:14Z",
+                "owner": "HyperionGray",
+                "repo": "python-chrome-devtools-protocol",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript/Node.js: chrome-debugging-client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50677750,
+                "language": "TypeScript",
+                "last_commit": "2026-04-15T11:09:35Z",
+                "owner": "TracerBench",
+                "repo": "chrome-debugging-client",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clojure: clj-chrome-devtools",
+              "description": "The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100861108,
+                "language": "Clojure",
+                "last_commit": "2024-09-16T06:09:07Z",
+                "owner": "tatut",
+                "repo": "clj-chrome-devtools",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python: chromewhip",
+              "description": "drop-in replacement for the service",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97796389,
+                "language": "Python",
+                "last_commit": "2023-08-29T20:30:19Z",
+                "owner": "chazkii",
+                "repo": "chromewhip",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C#/dotnet: chrome-dev-tools",
+              "description": "Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86019947,
+                "language": "C#",
+                "last_commit": "2023-11-23T00:38:18Z",
+                "owner": "BaristaLabs",
+                "repo": "chrome-dev-tools-generator",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin: chrome-reactive-kotlin",
+              "description": "reactive (rxjava 2.x), low-level client library in Kotlin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83794841,
+                "language": "Kotlin",
+                "last_commit": "2021-11-04T15:21:18Z",
+                "owner": "wendigo",
+                "repo": "chrome-reactive-kotlin",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin: chrome-devtools-kotlin",
+              "description": "A coroutine-based client library, providing low-level CDP primitives and high-level extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304337222,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T04:44:43Z",
+                "owner": "joffrey-bion",
+                "repo": "chrome-devtools-kotlin",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript/Node.js: Lumen",
+              "description": "Vision-first browser agent with self-healing deterministic replay over CDP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1170263480,
+                "language": "TypeScript",
+                "last_commit": "2026-03-30T01:28:40Z",
+                "owner": "omxyz",
+                "repo": "lumen",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clojure: cuic",
+              "description": "Providing a high-level API for UI test automation over the DevTools Protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150147383,
+                "language": "Clojure",
+                "last_commit": "2025-02-11T03:04:48Z",
+                "owner": "milankinen",
+                "repo": "cuic",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C#/.NET: dotnet-chrome-protocol",
+              "description": "A runtime library and schema code generation tools for Chrome DevTools Protocol support in C#/.NET.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 712637875,
+                "language": "C#",
+                "last_commit": "2026-07-17T23:47:05Z",
+                "owner": "seclerp",
+                "repo": "dotnet-chrome-protocol",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust: Rust Headless Chrome",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771860228,
+                "language": null,
+                "last_commit": "2024-03-08T17:15:13Z",
+                "owner": "atroche",
+                "repo": "rust-headless-chrome",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries for driving the protocol (or a layer above)"
         }
       ],
-      "title": "CPU profile"
+      "title": "Chrome DevTools Protocol"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "VS Code - Debugger for Chrome",
-          "description": "Breakpoint debugging in VS Code.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2022-12-02T15:12:33Z",
-            "owner": "microsoft",
-            "repo": "vscode-chrome-debug",
-            "stars": 2201
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Facebook Stetho",
+              "description": "Native Android debugging with Chrome DevTools.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 29703871,
+                "language": "Java",
+                "last_commit": "2024-10-26T03:44:45Z",
+                "owner": "facebook",
+                "repo": "stetho",
+                "stars": 12655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "j2v8-debugger",
+              "description": "Debugging JavaScript running in J2V8 with Chrome DevTools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150746428,
+                "language": "Kotlin",
+                "last_commit": "2025-02-04T11:02:27Z",
+                "owner": "AlexTrotsenko",
+                "repo": "j2v8-debugger",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
         },
         {
-          "node_type": "item",
-          "title": "VS Code - Elements for Microsoft Edge",
-          "description": "Elements panel inside VS Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-14T03:51:52Z",
-            "owner": "microsoft",
-            "repo": "vscode-edge-devtools",
-            "stars": 823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChromeREPL",
-          "description": "Within Sublime Text, use the Chrome console.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-06-12T20:47:36Z",
-            "owner": "acarabott",
-            "repo": "ChromeREPL",
-            "stars": 357
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ndb",
+              "description": "An improved Node.js debugging experience with the DevTools Frontend.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 141745951,
+                "language": "JavaScript",
+                "last_commit": "2022-05-26T07:03:35Z",
+                "owner": "GoogleChromeLabs",
+                "repo": "ndb",
+                "stars": 10870
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thetool",
+              "description": "CPU, memory, coverage, type profiling with Node.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186057844,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T21:45:35Z",
+                "owner": "sfninja",
+                "repo": "thetool",
+                "stars": 224
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
         }
       ],
-      "title": "Chrome Debugger integration with Editors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "chrome-remote-interface Wiki",
-          "description": "Many useful recipes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-09T09:02:35Z",
-            "owner": "cyrus-and",
-            "repo": "chrome-remote-interface",
-            "stars": 4552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chrome Protocol Proxy",
-          "description": "Tool for debugging clients using devtools protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-01-31T09:09:45Z",
-            "owner": "wendigo",
-            "repo": "chrome-protocol-proxy",
-            "stars": 251
-          }
-        }
-      ],
-      "title": "Developing with the protocol"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Puppeteer",
-          "description": "Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also awesome-puppeteer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T19:02:43Z",
-            "owner": "puppeteer",
-            "repo": "puppeteer",
-            "stars": 95462
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Playwright",
-          "description": "Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also awesome-playwright.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T02:41:05Z",
-            "owner": "microsoft",
-            "repo": "playwright",
-            "stars": 94712
-          }
-        }
-      ],
-      "title": "The big two automation libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Go: chromedp",
-          "description": "High-level actions and tasks for driving browsers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-14T21:56:36Z",
-            "owner": "chromedp",
-            "repo": "chromedp",
-            "stars": 13257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go: Rod",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T02:18:57Z",
-            "owner": "go-rod",
-            "repo": "rod",
-            "stars": 7064
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JavaScript/Node.js: chrome-remote-interface",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-09T09:02:35Z",
-            "owner": "cyrus-and",
-            "repo": "chrome-remote-interface",
-            "stars": 4552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python: pyppeteer",
-          "description": "Puppeteer port",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-29T14:49:45Z",
-            "owner": "pyppeteer",
-            "repo": "pyppeteer",
-            "stars": 3941
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C#/.NET: Puppeteer Sharp",
-          "description": "Puppeteer port",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T20:54:08Z",
-            "owner": "hardkoded",
-            "repo": "puppeteer-sharp",
-            "stars": 3912
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript/Node.js: Taiko",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-03T08:05:41Z",
-            "owner": "getgauge",
-            "repo": "taiko",
-            "stars": 3672
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby: Ferrum",
-          "description": "high-level API to control Chrome in Ruby",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T20:06:53Z",
-            "owner": "rubycdp",
-            "repo": "ferrum",
-            "stars": 2037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby: Cuprite",
-          "description": "Capybara driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-16T20:59:41Z",
-            "owner": "rubycdp",
-            "repo": "cuprite",
-            "stars": 1397
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHP: PuPHPeteer",
-          "description": "PHP bridge to node Puppeteer",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2023-01-01T15:05:38Z",
-            "owner": "rialto-php",
-            "repo": "puphpeteer",
-            "stars": 1332
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Java: jvppeteer",
-          "description": "Headless Chrome For Java",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-24T08:36:59Z",
-            "owner": "fanyong920",
-            "repo": "jvppeteer",
-            "stars": 807
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go: cdp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-07T23:12:56Z",
-            "owner": "mafredri",
-            "repo": "cdp",
-            "stars": 795
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go: godet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-17T05:19:29Z",
-            "owner": "raff",
-            "repo": "godet",
-            "stars": 399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Java: chrome-devtools-java-client",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-07-25T14:53:44Z",
-            "owner": "kklisura",
-            "repo": "chrome-devtools-java-client",
-            "stars": 237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python: ChromeController",
-          "description": "high-level browser mgmt",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-25T08:10:00Z",
-            "owner": "fake-name",
-            "repo": "ChromeController",
-            "stars": 229
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go: gcd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-10-16T04:05:44Z",
-            "owner": "wirepair",
-            "repo": "gcd",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHP: chrome-devtools-protocol",
-          "description": "A PHP client library for the protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-19T03:02:07Z",
-            "owner": "jakubkulhan",
-            "repo": "chrome-devtools-protocol",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python: PyCDP",
-          "description": "Pure-Python, sans-IO wrappers. See also the Trio CDP driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-03T23:39:14Z",
-            "owner": "HyperionGray",
-            "repo": "python-chrome-devtools-protocol",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript/Node.js: chrome-debugging-client",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-15T11:09:35Z",
-            "owner": "TracerBench",
-            "repo": "chrome-debugging-client",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clojure: clj-chrome-devtools",
-          "description": "The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-09-16T06:09:07Z",
-            "owner": "tatut",
-            "repo": "clj-chrome-devtools",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python: chromewhip",
-          "description": "drop-in replacement for the service",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-29T20:30:19Z",
-            "owner": "chazkii",
-            "repo": "chromewhip",
-            "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C#/dotnet: chrome-dev-tools",
-          "description": "Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-11-23T00:38:18Z",
-            "owner": "BaristaLabs",
-            "repo": "chrome-dev-tools-generator",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kotlin: chrome-reactive-kotlin",
-          "description": "reactive (rxjava 2.x), low-level client library in Kotlin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-11-04T15:21:18Z",
-            "owner": "wendigo",
-            "repo": "chrome-reactive-kotlin",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kotlin: chrome-devtools-kotlin",
-          "description": "A coroutine-based client library, providing low-level CDP primitives and high-level extensions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-19T04:44:43Z",
-            "owner": "joffrey-bion",
-            "repo": "chrome-devtools-kotlin",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript/Node.js: Lumen",
-          "description": "Vision-first browser agent with self-healing deterministic replay over CDP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-30T01:28:40Z",
-            "owner": "omxyz",
-            "repo": "lumen",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clojure: cuic",
-          "description": "Providing a high-level API for UI test automation over the DevTools Protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-02-11T03:04:48Z",
-            "owner": "milankinen",
-            "repo": "cuic",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C#/.NET: dotnet-chrome-protocol",
-          "description": "A runtime library and schema code generation tools for Chrome DevTools Protocol support in C#/.NET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-17T23:47:05Z",
-            "owner": "seclerp",
-            "repo": "dotnet-chrome-protocol",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rust: Rust Headless Chrome",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-08T17:15:13Z",
-            "owner": "atroche",
-            "repo": "rust-headless-chrome",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Libraries for driving the protocol (or a layer above)"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Using DevTools frontend with other platforms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Facebook Stetho",
-          "description": "Native Android debugging with Chrome DevTools.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2024-10-26T03:44:45Z",
-            "owner": "facebook",
-            "repo": "stetho",
-            "stars": 12656
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "j2v8-debugger",
-          "description": "Debugging JavaScript running in J2V8 with Chrome DevTools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-02-04T11:02:27Z",
-            "owner": "AlexTrotsenko",
-            "repo": "j2v8-debugger",
-            "stars": 92
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BrowserBox",
+              "description": "Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like , , and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222240688,
+                "language": "Shell",
+                "last_commit": "2026-08-13T14:55:33Z",
+                "owner": "BrowserBox",
+                "repo": "BrowserBox",
+                "stars": 3898
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Puppetromium",
+              "description": "A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407503395,
+                "language": "JavaScript",
+                "last_commit": "2023-07-23T11:50:18Z",
+                "owner": "DO-SAY-GO",
+                "repo": "puppetromium",
+                "stars": 64
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browsers"
         }
       ],
-      "title": "Android"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ndb",
-          "description": "An improved Node.js debugging experience with the DevTools Frontend.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-05-26T07:03:35Z",
-            "owner": "GoogleChromeLabs",
-            "repo": "ndb",
-            "stars": 10870
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thetool",
-          "description": "CPU, memory, coverage, type profiling with Node.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T21:45:35Z",
-            "owner": "sfninja",
-            "repo": "thetool",
-            "stars": 224
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "BrowserBox",
-          "description": "Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like , , and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-13T14:55:33Z",
-            "owner": "BrowserBox",
-            "repo": "BrowserBox",
-            "stars": 3898
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vue.js Developer Tools",
+              "description": "Inspect Vue.js components and manipulate their data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24579238,
+                "language": "TypeScript",
+                "last_commit": "2024-09-11T14:49:24Z",
+                "owner": "vuejs",
+                "repo": "devtools-v6",
+                "stars": 24704
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Insight",
+              "description": "A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52135330,
+                "language": "JavaScript",
+                "last_commit": "2021-09-30T16:30:40Z",
+                "owner": "3Dparallax",
+                "repo": "insight",
+                "stars": 914
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BEM devtools",
+              "description": "Inspect BEM entities expressed in framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53592202,
+                "language": "JavaScript",
+                "last_commit": "2017-09-26T10:35:34Z",
+                "owner": "escaton",
+                "repo": "bem-chrome-devtools",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workflow"
         },
         {
-          "node_type": "item",
-          "title": "Puppetromium",
-          "description": "A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-07-23T11:50:18Z",
-            "owner": "DO-SAY-GO",
-            "repo": "puppetromium",
-            "stars": 64
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TracerBench",
+              "description": "A controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50374423,
+                "language": "TypeScript",
+                "last_commit": "2023-04-26T00:56:24Z",
+                "owner": "TracerBench",
+                "repo": "tracerbench",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sloth",
+              "description": "Chrome extension allows to enable and save CPU and network throttling for selected tabs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123617235,
+                "language": "JavaScript",
+                "last_commit": "2019-05-03T21:41:27Z",
+                "owner": "denar90",
+                "repo": "sloth",
+                "stars": 198
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Performance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "k6 browser",
+              "description": "Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 345403438,
+                "language": "Go",
+                "last_commit": "2025-01-30T22:06:01Z",
+                "owner": "grafana-cold-storage",
+                "repo": "xk6-browser",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Puppeteer IDE",
+              "description": "Standalone Puppeteer playground in browser's developer tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437635494,
+                "language": "TypeScript",
+                "last_commit": "2023-11-13T10:25:49Z",
+                "owner": "gajananpp",
+                "repo": "puppeteer-ide-extension",
+                "stars": 243
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Automation"
         }
       ],
-      "title": "Browsers"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "DevTools Extensions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Vue.js Developer Tools",
-          "description": "Inspect Vue.js components and manipulate their data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-11T14:49:24Z",
-            "owner": "vuejs",
-            "repo": "devtools-v6",
-            "stars": 24704
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Insight",
-          "description": "A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-09-30T16:30:40Z",
-            "owner": "3Dparallax",
-            "repo": "insight",
-            "stars": 914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BEM devtools",
-          "description": "Inspect BEM entities expressed in framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-09-26T10:35:34Z",
-            "owner": "escaton",
-            "repo": "bem-chrome-devtools",
-            "stars": 47
-          }
-        }
-      ],
-      "title": "Workflow"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TracerBench",
-          "description": "A controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-26T00:56:24Z",
-            "owner": "TracerBench",
-            "repo": "tracerbench",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sloth",
-          "description": "Chrome extension allows to enable and save CPU and network throttling for selected tabs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-05-03T21:41:27Z",
-            "owner": "denar90",
-            "repo": "sloth",
-            "stars": 198
-          }
-        }
-      ],
-      "title": "Performance"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "k6 browser",
-          "description": "Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2025-01-30T22:06:01Z",
-            "owner": "grafana-cold-storage",
-            "repo": "xk6-browser",
-            "stars": 358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Puppeteer IDE",
-          "description": "Standalone Puppeteer playground in browser's developer tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-13T10:25:49Z",
-            "owner": "gajananpp",
-            "repo": "puppeteer-ide-extension",
-            "stars": 243
-          }
-        }
-      ],
-      "title": "Automation"
     },
     {
       "description": "Old projects, likely not maintained any longer… But still cool.",
@@ -821,6 +893,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 74258441,
                 "language": "TypeScript",
                 "last_commit": "2021-03-03T05:09:06Z",
                 "owner": "RemoteDebug",
@@ -831,6 +904,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 8165161,
             "language": "C",
             "last_commit": "2025-07-02T07:34:34Z",
             "owner": "google",
@@ -845,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98296979,
             "language": "Python",
             "last_commit": "2024-06-17T16:55:43Z",
             "owner": "fate0",
@@ -859,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 31328023,
             "language": "C++",
             "last_commit": "2016-06-02T17:08:30Z",
             "owner": "microsoft",
@@ -873,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90010478,
             "language": "JavaScript",
             "last_commit": "2022-02-01T18:50:59Z",
             "owner": "christian-bromann",
@@ -892,6 +969,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35544877,
                 "language": "CSS",
                 "last_commit": "2017-04-10T23:43:50Z",
                 "owner": "auchenberg",
@@ -902,6 +980,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 36418742,
             "language": "JavaScript",
             "last_commit": "2015-11-04T17:48:19Z",
             "owner": "RemoteDebug",
@@ -916,6 +995,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84164961,
             "language": "Go",
             "last_commit": "2017-07-26T09:07:37Z",
             "owner": "allada",
@@ -928,8 +1008,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:35:02.656Z",
+    "last_updated": "2026-08-19T12:21:01.419Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
+    "original_repository_id": 53394547,
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
     "enhanced_repository": "enhansome/enhansome-chrome-devtools",
     "enhanced_repository_description": null,
