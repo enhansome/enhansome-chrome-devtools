@@ -15,7 +15,7 @@
             "last_commit": "2026-07-30T22:47:01Z",
             "owner": "sparkyrider",
             "repo": "chrome-secret-menus",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -163,7 +163,7 @@
                 "last_commit": "2025-01-31T09:09:45Z",
                 "owner": "wendigo",
                 "repo": "chrome-protocol-proxy",
-                "stars": 251
+                "stars": 252
               }
             }
           ],
@@ -182,10 +182,10 @@
                 "archived": false,
                 "id": 90796663,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T06:09:48Z",
+                "last_commit": "2026-08-19T14:40:30Z",
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95465
+                "stars": 95466
               }
             },
             {
@@ -197,10 +197,10 @@
                 "archived": false,
                 "id": 221981891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T06:44:48Z",
+                "last_commit": "2026-08-20T01:30:19Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 94729
+                "stars": 94775
               }
             }
           ],
@@ -222,7 +222,7 @@
                 "last_commit": "2026-07-14T21:56:36Z",
                 "owner": "chromedp",
                 "repo": "chromedp",
-                "stars": 13258
+                "stars": 13260
               }
             },
             {
@@ -297,7 +297,7 @@
                 "last_commit": "2026-08-03T08:05:41Z",
                 "owner": "getgauge",
                 "repo": "taiko",
-                "stars": 3672
+                "stars": 3673
               }
             },
             {
@@ -309,7 +309,7 @@
                 "archived": false,
                 "id": 198371388,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T20:06:53Z",
+                "last_commit": "2026-08-19T19:15:52Z",
                 "owner": "rubycdp",
                 "repo": "ferrum",
                 "stars": 2037
@@ -444,7 +444,7 @@
                 "archived": false,
                 "id": 111571114,
                 "language": "PHP",
-                "last_commit": "2026-08-19T03:02:07Z",
+                "last_commit": "2026-08-20T03:02:02Z",
                 "owner": "jakubkulhan",
                 "repo": "chrome-devtools-protocol",
                 "stars": 185
@@ -717,7 +717,7 @@
                 "archived": false,
                 "id": 222240688,
                 "language": "Shell",
-                "last_commit": "2026-08-13T14:55:33Z",
+                "last_commit": "2026-08-19T17:18:58Z",
                 "owner": "BrowserBox",
                 "repo": "BrowserBox",
                 "stars": 3898
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:01.419Z",
+    "last_updated": "2026-08-20T05:35:22.822Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "original_repository_id": 53394547,
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
