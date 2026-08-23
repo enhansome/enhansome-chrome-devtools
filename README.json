@@ -148,7 +148,7 @@
                 "last_commit": "2026-02-09T09:02:35Z",
                 "owner": "cyrus-and",
                 "repo": "chrome-remote-interface",
-                "stars": 4551
+                "stars": 4550
               }
             },
             {
@@ -182,10 +182,10 @@
                 "archived": false,
                 "id": 90796663,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:21:31Z",
+                "last_commit": "2026-08-23T02:06:43Z",
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95486
+                "stars": 95488
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-08-22T03:59:22Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 94924
+                "stars": 94977
               }
             }
           ],
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-11T02:18:57Z",
                 "owner": "go-rod",
                 "repo": "rod",
-                "stars": 7068
+                "stars": 7070
               }
             },
             {
@@ -252,7 +252,7 @@
                 "last_commit": "2026-02-09T09:02:35Z",
                 "owner": "cyrus-and",
                 "repo": "chrome-remote-interface",
-                "stars": 4551
+                "stars": 4550
               }
             },
             {
@@ -267,7 +267,7 @@
                 "last_commit": "2024-06-29T14:49:45Z",
                 "owner": "pyppeteer",
                 "repo": "pyppeteer",
-                "stars": 3941
+                "stars": 3942
               }
             },
             {
@@ -282,7 +282,7 @@
                 "last_commit": "2026-08-17T20:54:08Z",
                 "owner": "hardkoded",
                 "repo": "puppeteer-sharp",
-                "stars": 3912
+                "stars": 3913
               }
             },
             {
@@ -294,7 +294,7 @@
                 "archived": false,
                 "id": 108502821,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T05:27:02Z",
+                "last_commit": "2026-08-22T10:22:22Z",
                 "owner": "getgauge",
                 "repo": "taiko",
                 "stars": 3673
@@ -309,7 +309,7 @@
                 "archived": false,
                 "id": 198371388,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T20:02:33Z",
+                "last_commit": "2026-08-22T18:23:12Z",
                 "owner": "rubycdp",
                 "repo": "ferrum",
                 "stars": 2037
@@ -444,7 +444,7 @@
                 "archived": false,
                 "id": 111571114,
                 "language": "PHP",
-                "last_commit": "2026-08-22T03:01:58Z",
+                "last_commit": "2026-08-23T03:02:08Z",
                 "owner": "jakubkulhan",
                 "repo": "chrome-devtools-protocol",
                 "stars": 185
@@ -549,7 +549,7 @@
                 "archived": false,
                 "id": 304337222,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T04:41:33Z",
+                "last_commit": "2026-08-23T04:45:56Z",
                 "owner": "joffrey-bion",
                 "repo": "chrome-devtools-kotlin",
                 "stars": 62
@@ -720,7 +720,7 @@
                 "last_commit": "2026-08-19T17:18:58Z",
                 "owner": "BrowserBox",
                 "repo": "BrowserBox",
-                "stars": 3898
+                "stars": 3899
               }
             },
             {
@@ -763,7 +763,7 @@
                 "last_commit": "2024-09-11T14:49:24Z",
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24701
+                "stars": 24700
               }
             },
             {
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:32:04.103Z",
+    "last_updated": "2026-08-23T05:33:50.694Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "original_repository_id": 53394547,
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
