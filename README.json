@@ -43,6 +43,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "immutable-devtools",
+              "description": "Custom formatter for Immutable-js values.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46151652,
+                "language": "JavaScript",
+                "last_commit": "2019-11-11T19:46:04Z",
+                "owner": "andrewdavey",
+                "repo": "immutable-devtools",
+                "stars": 672
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Object formatting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "betwixt",
+              "description": "System level network proxy, providing inspection via Network panel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46131737,
+                "language": "JavaScript",
+                "last_commit": "2021-11-23T15:43:17Z",
+                "owner": "kdzwinel",
+                "repo": "betwixt",
+                "stars": 4558
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Network Inspection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "cpuprofilify",
               "description": "Converts output of various profiling/sampling tools to the format.",
               "children": [],
@@ -75,6 +119,28 @@
           "description": null,
           "node_type": "group",
           "title": "CPU profile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "snapline",
+              "description": "Converts timeline screenshots to gif.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52033173,
+                "language": "JavaScript",
+                "last_commit": "2016-03-17T16:38:33Z",
+                "owner": "pmdartus",
+                "repo": "snapline",
+                "stars": 401
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multimedia"
         },
         {
           "children": [
@@ -135,6 +201,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "ChromeDevTools/devtools-protocol",
+          "description": "Canonical location of the protocol JSON. Issue tracker for protocol bugs. TypeScript types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86491149,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T04:37:56Z",
+            "owner": "ChromeDevTools",
+            "repo": "devtools-protocol",
+            "stars": 1535
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -160,7 +241,7 @@
                 "archived": false,
                 "id": 88489724,
                 "language": "Go",
-                "last_commit": "2025-01-31T09:09:45Z",
+                "last_commit": "2026-08-24T13:55:45Z",
                 "owner": "wendigo",
                 "repo": "chrome-protocol-proxy",
                 "stars": 251
@@ -182,10 +263,10 @@
                 "archived": false,
                 "id": 90796663,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T21:30:15Z",
+                "last_commit": "2026-08-24T13:05:07Z",
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95490
+                "stars": 95492
               }
             },
             {
@@ -197,10 +278,10 @@
                 "archived": false,
                 "id": 221981891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T22:43:58Z",
+                "last_commit": "2026-08-24T10:15:27Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 95019
+                "stars": 95049
               }
             }
           ],
@@ -222,7 +303,7 @@
                 "last_commit": "2026-07-14T21:56:36Z",
                 "owner": "chromedp",
                 "repo": "chromedp",
-                "stars": 13262
+                "stars": 13263
               }
             },
             {
@@ -237,7 +318,7 @@
                 "last_commit": "2026-08-11T02:18:57Z",
                 "owner": "go-rod",
                 "repo": "rod",
-                "stars": 7070
+                "stars": 7072
               }
             },
             {
@@ -294,7 +375,7 @@
                 "archived": false,
                 "id": 108502821,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T10:22:42Z",
+                "last_commit": "2026-08-24T12:43:51Z",
                 "owner": "getgauge",
                 "repo": "taiko",
                 "stars": 3673
@@ -309,7 +390,7 @@
                 "archived": false,
                 "id": 198371388,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T20:43:46Z",
+                "last_commit": "2026-08-24T09:11:32Z",
                 "owner": "rubycdp",
                 "repo": "ferrum",
                 "stars": 2037
@@ -324,7 +405,7 @@
                 "archived": false,
                 "id": 141314250,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T12:34:33Z",
+                "last_commit": "2026-08-24T11:57:39Z",
                 "owner": "rubycdp",
                 "repo": "cuprite",
                 "stars": 1397
@@ -549,7 +630,7 @@
                 "archived": false,
                 "id": 304337222,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T04:45:56Z",
+                "last_commit": "2026-08-24T08:15:10Z",
                 "owner": "joffrey-bion",
                 "repo": "chrome-devtools-kotlin",
                 "stars": 62
@@ -619,6 +700,28 @@
           "description": null,
           "node_type": "group",
           "title": "Libraries for driving the protocol (or a layer above)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "devtools-remote-debugger",
+              "description": "Use devtools against a webpage; a CDP agent implemeted in client-side JS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426490711,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T03:50:10Z",
+                "owner": "Nice-PLQ",
+                "repo": "devtools-remote-debugger",
+                "stars": 417
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser Adapters"
         }
       ],
       "title": "Chrome DevTools Protocol"
@@ -667,6 +770,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Dirac",
+              "description": "Debugging of ClojsureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48010047,
+                "language": "Clojure",
+                "last_commit": "2022-08-26T16:03:55Z",
+                "owner": "binaryage",
+                "repo": "dirac",
+                "stars": 776
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ClojureScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PonyDebugger",
+              "description": "Remote network and data debugging iOS apps with Chrome DevTools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5499847,
+                "language": "Objective-C",
+                "last_commit": "2023-03-18T22:52:48Z",
+                "owner": "square",
+                "repo": "PonyDebugger",
+                "stars": 5853
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ndb",
               "description": "An improved Node.js debugging experience with the DevTools Frontend.",
               "children": [],
@@ -699,6 +846,28 @@
           "description": null,
           "node_type": "group",
           "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ruby/debug",
+              "description": "Debugging functionality for Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209731662,
+                "language": "Ruby",
+                "last_commit": "2026-06-12T01:07:12Z",
+                "owner": "ruby",
+                "repo": "debug",
+                "stars": 1271
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
         }
       ],
       "title": "Using DevTools frontend with other platforms"
@@ -742,6 +911,28 @@
           "description": null,
           "node_type": "group",
           "title": "Browsers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dn",
+              "description": "Archive and index pages you browse for offline viewing and search, implemented using the domain's interceptions, and works with any Chromium-based browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229236549,
+                "language": "JavaScript",
+                "last_commit": "2026-08-09T11:12:16Z",
+                "owner": "DO-SAY-GO",
+                "repo": "tdf",
+                "stars": 3907
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Archivers and Indexers"
         }
       ],
       "title": "Applications"
@@ -909,7 +1100,7 @@
             "last_commit": "2025-07-02T07:34:34Z",
             "owner": "google",
             "repo": "ios-webkit-debug-proxy",
-            "stars": 6198
+            "stars": 6199
           }
         },
         {
@@ -1008,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:42:04.732Z",
+    "last_updated": "2026-08-24T13:56:55.978Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "original_repository_id": 53394547,
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
