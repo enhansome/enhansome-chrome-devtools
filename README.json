@@ -182,10 +182,10 @@
                 "archived": false,
                 "id": 90796663,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T02:06:43Z",
+                "last_commit": "2026-08-23T21:30:15Z",
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95488
+                "stars": 95490
               }
             },
             {
@@ -197,10 +197,10 @@
                 "archived": false,
                 "id": 221981891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T03:59:22Z",
+                "last_commit": "2026-08-23T22:43:58Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 94977
+                "stars": 95019
               }
             }
           ],
@@ -294,7 +294,7 @@
                 "archived": false,
                 "id": 108502821,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T10:22:22Z",
+                "last_commit": "2026-08-23T10:22:42Z",
                 "owner": "getgauge",
                 "repo": "taiko",
                 "stars": 3673
@@ -309,7 +309,7 @@
                 "archived": false,
                 "id": 198371388,
                 "language": "Ruby",
-                "last_commit": "2026-08-22T18:23:12Z",
+                "last_commit": "2026-08-23T20:43:46Z",
                 "owner": "rubycdp",
                 "repo": "ferrum",
                 "stars": 2037
@@ -357,7 +357,7 @@
                 "last_commit": "2026-07-24T08:36:59Z",
                 "owner": "fanyong920",
                 "repo": "jvppeteer",
-                "stars": 807
+                "stars": 806
               }
             },
             {
@@ -763,7 +763,7 @@
                 "last_commit": "2024-09-11T14:49:24Z",
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24700
+                "stars": 24699
               }
             },
             {
@@ -909,7 +909,7 @@
             "last_commit": "2025-07-02T07:34:34Z",
             "owner": "google",
             "repo": "ios-webkit-debug-proxy",
-            "stars": 6197
+            "stars": 6198
           }
         },
         {
@@ -924,7 +924,7 @@
             "last_commit": "2024-06-17T16:55:43Z",
             "owner": "fate0",
             "repo": "pychrome",
-            "stars": 648
+            "stars": 649
           }
         },
         {
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:33:50.694Z",
+    "last_updated": "2026-08-24T05:42:04.732Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "original_repository_id": 53394547,
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
