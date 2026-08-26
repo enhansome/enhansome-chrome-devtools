@@ -15,7 +15,7 @@
             "last_commit": "2026-07-30T22:47:01Z",
             "owner": "sparkyrider",
             "repo": "chrome-secret-menus",
-            "stars": 76
+            "stars": 75
           }
         },
         {
@@ -212,7 +212,7 @@
             "last_commit": "2026-08-22T04:37:56Z",
             "owner": "ChromeDevTools",
             "repo": "devtools-protocol",
-            "stars": 1535
+            "stars": 1537
           }
         },
         {
@@ -229,7 +229,7 @@
                 "last_commit": "2026-02-09T09:02:35Z",
                 "owner": "cyrus-and",
                 "repo": "chrome-remote-interface",
-                "stars": 4550
+                "stars": 4551
               }
             },
             {
@@ -241,7 +241,7 @@
                 "archived": false,
                 "id": 88489724,
                 "language": "Go",
-                "last_commit": "2026-08-24T15:25:40Z",
+                "last_commit": "2026-08-25T08:53:21Z",
                 "owner": "wendigo",
                 "repo": "chrome-protocol-proxy",
                 "stars": 251
@@ -263,10 +263,10 @@
                 "archived": false,
                 "id": 90796663,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:06:57Z",
+                "last_commit": "2026-08-25T13:44:14Z",
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95495
+                "stars": 95499
               }
             },
             {
@@ -278,10 +278,10 @@
                 "archived": false,
                 "id": 221981891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:09:25Z",
+                "last_commit": "2026-08-26T00:46:28Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 95082
+                "stars": 95138
               }
             }
           ],
@@ -318,7 +318,7 @@
                 "last_commit": "2026-08-11T02:18:57Z",
                 "owner": "go-rod",
                 "repo": "rod",
-                "stars": 7074
+                "stars": 7075
               }
             },
             {
@@ -333,7 +333,7 @@
                 "last_commit": "2026-02-09T09:02:35Z",
                 "owner": "cyrus-and",
                 "repo": "chrome-remote-interface",
-                "stars": 4550
+                "stars": 4551
               }
             },
             {
@@ -360,7 +360,7 @@
                 "archived": false,
                 "id": 105399035,
                 "language": "C#",
-                "last_commit": "2026-08-17T20:54:08Z",
+                "last_commit": "2026-08-25T20:40:47Z",
                 "owner": "hardkoded",
                 "repo": "puppeteer-sharp",
                 "stars": 3915
@@ -375,10 +375,10 @@
                 "archived": false,
                 "id": 108502821,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T12:43:51Z",
+                "last_commit": "2026-08-25T12:10:06Z",
                 "owner": "getgauge",
                 "repo": "taiko",
-                "stars": 3673
+                "stars": 3674
               }
             },
             {
@@ -405,10 +405,10 @@
                 "archived": false,
                 "id": 141314250,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T00:57:00Z",
+                "last_commit": "2026-08-25T06:09:23Z",
                 "owner": "rubycdp",
                 "repo": "cuprite",
-                "stars": 1396
+                "stars": 1395
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2023-01-01T15:05:38Z",
                 "owner": "rialto-php",
                 "repo": "puphpeteer",
-                "stars": 1332
+                "stars": 1331
               }
             },
             {
@@ -889,7 +889,7 @@
                 "last_commit": "2026-08-19T17:18:58Z",
                 "owner": "BrowserBox",
                 "repo": "BrowserBox",
-                "stars": 3900
+                "stars": 3901
               }
             },
             {
@@ -1100,7 +1100,7 @@
             "last_commit": "2025-07-02T07:34:34Z",
             "owner": "google",
             "repo": "ios-webkit-debug-proxy",
-            "stars": 6199
+            "stars": 6200
           }
         },
         {
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:46:07.128Z",
+    "last_updated": "2026-08-26T05:38:45.815Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "original_repository_id": 53394547,
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
