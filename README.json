@@ -171,7 +171,7 @@
                 "last_commit": "2026-02-14T03:51:52Z",
                 "owner": "microsoft",
                 "repo": "vscode-edge-devtools",
-                "stars": 825
+                "stars": 826
               }
             },
             {
@@ -266,7 +266,7 @@
                 "last_commit": "2026-08-26T19:21:43Z",
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95506
+                "stars": 95508
               }
             },
             {
@@ -278,10 +278,10 @@
                 "archived": false,
                 "id": 221981891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:44:09Z",
+                "last_commit": "2026-08-27T16:14:16Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 95226
+                "stars": 95238
               }
             }
           ],
@@ -318,7 +318,7 @@
                 "last_commit": "2026-08-11T02:18:57Z",
                 "owner": "go-rod",
                 "repo": "rod",
-                "stars": 7078
+                "stars": 7079
               }
             },
             {
@@ -630,7 +630,7 @@
                 "archived": false,
                 "id": 304337222,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T08:13:05Z",
+                "last_commit": "2026-08-27T15:10:09Z",
                 "owner": "joffrey-bion",
                 "repo": "chrome-devtools-kotlin",
                 "stars": 62
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:08.201Z",
+    "last_updated": "2026-08-27T16:18:19.408Z",
     "original_repository_info": {
       "archived": false,
       "id": 53394547,
@@ -1207,7 +1207,7 @@
       "last_commit": "2026-03-27T03:36:24Z",
       "owner": "ChromeDevTools",
       "repo": "awesome-chrome-devtools",
-      "stars": 7122
+      "stars": 7123
     },
     "original_repository_sha": "237471d0162ab53901ad0a813c802e6773169af0",
     "enhanced_repository": "enhansome/enhansome-chrome-devtools",

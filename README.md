@@ -53,7 +53,7 @@
 ### Chrome Debugger integration with Editors
 
 * [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) ⚠️ Archived - Breakpoint debugging in VS Code.
-* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 825 | 🐛 1,229 | 🌐 TypeScript | 📅 2026-02-14 - Elements panel inside VS Code.
+* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 826 | 🐛 1,230 | 🌐 TypeScript | 📅 2026-02-14 - Elements panel inside VS Code.
 * [ChromeREPL](https://github.com/acarabott/ChromeREPL) ⭐ 357 | 🐛 3 | 🌐 Python | 📅 2018-06-12 - Within Sublime Text, use the Chrome console.
 * [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
 * [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
@@ -72,13 +72,13 @@
 
 ### The big two automation libraries
 
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,506 | 🐛 264 | 🌐 TypeScript | 📅 2026-08-26 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,572 | 🐛 26 | 📅 2024-07-19.
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,226 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-27 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,560 | 🐛 9 | 📅 2026-08-12.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,508 | 🐛 264 | 🌐 TypeScript | 📅 2026-08-26 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,572 | 🐛 26 | 📅 2024-07-19.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,238 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-27 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,560 | 🐛 9 | 📅 2026-08-12.
 
 ### Libraries for driving the protocol (or a layer above)
 
 * Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,265 | 🐛 177 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
-* Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,078 | 🐛 209 | 🌐 Go | 📅 2026-08-11
+* Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,079 | 🐛 209 | 🌐 Go | 📅 2026-08-11
 * JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,551 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
 * Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,942 | 🐛 213 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
 * C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,916 | 🐛 13 | 🌐 C# | 📅 2026-08-26 - Puppeteer port
