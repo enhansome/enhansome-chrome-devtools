@@ -258,7 +258,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-02-14T03:51:52Z",
-                "open_issues": 1232,
+                "open_issues": 1233,
                 "owner": "microsoft",
                 "repo": "vscode-edge-devtools",
                 "stars": 826,
@@ -416,7 +416,7 @@
                 "open_issues": 263,
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95515,
+                "stars": 95518,
                 "topics": [
                   "automation",
                   "chrome",
@@ -447,7 +447,7 @@
                 "open_issues": 167,
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 95316,
+                "stars": 95326,
                 "topics": [
                   "automation",
                   "chrome",
@@ -491,7 +491,7 @@
                 "open_issues": 178,
                 "owner": "chromedp",
                 "repo": "chromedp",
-                "stars": 13266,
+                "stars": 13265,
                 "topics": [
                   "chrome",
                   "chrome-debugging-protocol",
@@ -520,7 +520,7 @@
                 "open_issues": 210,
                 "owner": "go-rod",
                 "repo": "rod",
-                "stars": 7081,
+                "stars": 7080,
                 "topics": [
                   "automation",
                   "cdp",
@@ -673,8 +673,8 @@
                 "id": 198371388,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-28T21:09:51Z",
-                "open_issues": 14,
+                "last_commit": "2026-08-29T09:49:02Z",
+                "open_issues": 13,
                 "owner": "rubycdp",
                 "repo": "ferrum",
                 "stars": 2039,
@@ -703,7 +703,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-08-25T06:09:23Z",
-                "open_issues": 31,
+                "open_issues": 30,
                 "owner": "rubycdp",
                 "repo": "cuprite",
                 "stars": 1395,
@@ -1598,7 +1598,7 @@
                 "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24702,
+                "stars": 24701,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1965,7 +1965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:51.467Z",
+    "last_updated": "2026-08-29T11:31:54.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
@@ -1977,7 +1977,7 @@
       "open_issues": 23,
       "owner": "ChromeDevTools",
       "repo": "awesome-chrome-devtools",
-      "stars": 7124,
+      "stars": 7125,
       "topics": [
         "awesome",
         "awesome-list"
