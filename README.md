@@ -53,7 +53,7 @@
 ### Chrome Debugger integration with Editors
 
 * [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) ⚠️ Archived - Breakpoint debugging in VS Code.
-* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 826 | 🐛 1,234 | 🌐 TypeScript | 📅 2026-02-14 - Elements panel inside VS Code.
+* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 826 | 🐛 1,241 | 🌐 TypeScript | 📅 2026-02-14 - Elements panel inside VS Code.
 * [ChromeREPL](https://github.com/acarabott/ChromeREPL) ⭐ 357 | 🐛 3 | 🌐 Python | 📅 2018-06-12 - Within Sublime Text, use the Chrome console.
 * [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
 * [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
@@ -72,16 +72,16 @@
 
 ### The big two automation libraries
 
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,526 | 🐛 267 | 🌐 TypeScript | 📅 2026-08-30 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,572 | 🐛 26 | 📅 2024-07-19.
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,369 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-29 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,563 | 🐛 11 | 📅 2026-08-12.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,528 | 🐛 265 | 🌐 TypeScript | 📅 2026-08-31 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,573 | 🐛 25 | 📅 2024-07-19.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,415 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-31 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,563 | 🐛 12 | 📅 2026-08-12.
 
 ### Libraries for driving the protocol (or a layer above)
 
-* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,267 | 🐛 179 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
+* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,268 | 🐛 179 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
 * Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,082 | 🐛 210 | 🌐 Go | 📅 2026-08-11
 * JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,552 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
-* Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,941 | 🐛 213 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
-* C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,916 | 🐛 11 | 🌐 C# | 📅 2026-08-27 - Puppeteer port
+* Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,940 | 🐛 213 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
+* C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,916 | 🐛 11 | 🌐 C# | 📅 2026-08-30 - Puppeteer port
 * TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/) ⭐ 3,674 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-25
 * Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 2,039 | 🐛 13 | 🌐 Ruby | 📅 2026-08-29 - high-level API to control Chrome in Ruby
 * Ruby: [Cuprite](https://github.com/machinio/cuprite) ⭐ 1,395 | 🐛 30 | 🌐 Ruby | 📅 2026-08-25 - Capybara driver
@@ -116,7 +116,7 @@
 #### Android
 
 * [Facebook Stetho](https://github.com/facebook/stetho) ⚠️ Archived - Native Android debugging with Chrome DevTools.
-* [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) ⭐ 92 | 🐛 5 | 🌐 Kotlin | 📅 2025-02-04 - Debugging JavaScript running in [J2V8](https://github.com/eclipsesource/J2V8) ⭐ 2,627 | 🐛 178 | 🌐 Java | 📅 2025-11-14 with Chrome DevTools.
+* [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) ⭐ 92 | 🐛 5 | 🌐 Kotlin | 📅 2025-02-04 - Debugging JavaScript running in [J2V8](https://github.com/eclipsesource/J2V8) ⭐ 2,628 | 🐛 178 | 🌐 Java | 📅 2025-11-14 with Chrome DevTools.
 
 #### ClojureScript
 
@@ -156,7 +156,7 @@
 
 ### Workflow
 
-* [Vue.js Developer Tools](https://github.com/vuejs/vue-devtools) ⭐ 24,699 | 🐛 513 | 🌐 TypeScript | 📅 2024-09-11 - Inspect Vue.js components and manipulate their data.
+* [Vue.js Developer Tools](https://github.com/vuejs/vue-devtools) ⭐ 24,698 | 🐛 513 | 🌐 TypeScript | 📅 2024-09-11 - Inspect Vue.js components and manipulate their data.
 * [Insight](https://github.com/3Dparallax/insight/) ⭐ 914 | 🐛 22 | 🌐 JavaScript | 📅 2021-09-30 - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
 * [BEM devtools](https://github.com/escaton/bem-chrome-devtools) ⭐ 47 | 🐛 3 | 🌐 JavaScript | 📅 2017-09-26 - Inspect BEM entities expressed in `i-bem` framework.
 * [Clockwork](https://chromewebstore.google.com/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - View PHP application profiling data.
@@ -197,4 +197,4 @@ Old projects, likely not maintained any longer… But still cool.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
