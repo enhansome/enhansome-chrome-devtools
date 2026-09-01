@@ -258,10 +258,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-02-14T03:51:52Z",
-                "open_issues": 1241,
+                "open_issues": 1242,
                 "owner": "microsoft",
                 "repo": "vscode-edge-devtools",
-                "stars": 826,
+                "stars": 827,
                 "topics": [
                   "developertools",
                   "microsoft-edge-browser",
@@ -412,11 +412,11 @@
                 "id": 90796663,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T09:49:21Z",
-                "open_issues": 265,
+                "last_commit": "2026-08-31T14:45:17Z",
+                "open_issues": 263,
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95528,
+                "stars": 95532,
                 "topics": [
                   "automation",
                   "chrome",
@@ -444,10 +444,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T10:15:28Z",
-                "open_issues": 180,
+                "open_issues": 185,
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 95415,
+                "stars": 95462,
                 "topics": [
                   "automation",
                   "chrome",
@@ -520,7 +520,7 @@
                 "open_issues": 210,
                 "owner": "go-rod",
                 "repo": "rod",
-                "stars": 7082,
+                "stars": 7083,
                 "topics": [
                   "automation",
                   "cdp",
@@ -588,10 +588,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-06-29T14:49:45Z",
-                "open_issues": 213,
+                "open_issues": 212,
                 "owner": "pyppeteer",
                 "repo": "pyppeteer",
-                "stars": 3940,
+                "stars": 3941,
                 "topics": [
                   "automation",
                   "chromium",
@@ -616,7 +616,7 @@
                 "open_issues": 11,
                 "owner": "hardkoded",
                 "repo": "puppeteer-sharp",
-                "stars": 3916,
+                "stars": 3917,
                 "topics": [
                   "automation",
                   "chrome",
@@ -844,7 +844,7 @@
                 "open_issues": 51,
                 "owner": "kklisura",
                 "repo": "chrome-devtools-java-client",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "chrome-devtools",
                   "chrome-headless",
@@ -1551,7 +1551,7 @@
                 "open_issues": 2,
                 "owner": "DO-SAY-GO",
                 "repo": "tdf",
-                "stars": 3908,
+                "stars": 3907,
                 "topics": [
                   "archive",
                   "archiver",
@@ -1820,7 +1820,7 @@
             "open_issues": 20,
             "owner": "google",
             "repo": "ios-webkit-debug-proxy",
-            "stars": 6201,
+            "stars": 6202,
             "topics": []
           },
           "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1965,7 +1965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:29:04.126Z",
+    "last_updated": "2026-09-01T09:51:20.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
@@ -1974,7 +1974,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-27T03:36:24Z",
-      "open_issues": 23,
+      "open_issues": 25,
       "owner": "ChromeDevTools",
       "repo": "awesome-chrome-devtools",
       "stars": 7128,
