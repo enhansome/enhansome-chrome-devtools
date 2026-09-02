@@ -16,7 +16,7 @@
 
 ## Learning
 
-* [Chrome Secret Menus](https://github.com/sparkyrider/chrome-secret-menus) ⭐ 76 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-30 - Comprehensive guide to internal pages and diagnostic tools in Chrome.
+* [Chrome Secret Menus](https://github.com/sparkyrider/chrome-secret-menus) ⭐ 77 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-30 - Comprehensive guide to internal pages and diagnostic tools in Chrome.
 * [Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook) ⭐ 58 | 🐛 2 | 📅 2026-06-23 - Practical guide to mastering front-end debugging tools, from Chrome DevTools and framework extensions to AI-enhanced IDE debugging.
 * [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 * [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
@@ -53,7 +53,7 @@
 ### Chrome Debugger integration with Editors
 
 * [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) ⚠️ Archived - Breakpoint debugging in VS Code.
-* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 827 | 🐛 1,242 | 🌐 TypeScript | 📅 2026-02-14 - Elements panel inside VS Code.
+* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 827 | 🐛 1,249 | 🌐 TypeScript | 📅 2026-02-14 - Elements panel inside VS Code.
 * [ChromeREPL](https://github.com/acarabott/ChromeREPL) ⭐ 357 | 🐛 3 | 🌐 Python | 📅 2018-06-12 - Within Sublime Text, use the Chrome console.
 * [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
 * [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
@@ -72,19 +72,19 @@
 
 ### The big two automation libraries
 
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,532 | 🐛 263 | 🌐 TypeScript | 📅 2026-08-31 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,575 | 🐛 25 | 📅 2024-07-19.
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,462 | 🐛 185 | 🌐 TypeScript | 📅 2026-08-31 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,564 | 🐛 13 | 📅 2026-08-12.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,536 | 🐛 264 | 🌐 TypeScript | 📅 2026-09-02 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,575 | 🐛 25 | 📅 2024-07-19.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,519 | 🐛 180 | 🌐 TypeScript | 📅 2026-09-02 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,565 | 🐛 16 | 📅 2026-08-12.
 
 ### Libraries for driving the protocol (or a layer above)
 
-* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,268 | 🐛 179 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
+* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,269 | 🐛 179 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
 * Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,083 | 🐛 210 | 🌐 Go | 📅 2026-08-11
 * JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,552 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
 * Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,941 | 🐛 212 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
 * C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,917 | 🐛 11 | 🌐 C# | 📅 2026-08-30 - Puppeteer port
-* TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/) ⭐ 3,674 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-25
-* Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 2,039 | 🐛 13 | 🌐 Ruby | 📅 2026-08-29 - high-level API to control Chrome in Ruby
-* Ruby: [Cuprite](https://github.com/machinio/cuprite) ⭐ 1,395 | 🐛 30 | 🌐 Ruby | 📅 2026-08-25 - Capybara driver
+* TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/) ⭐ 3,674 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-01
+* Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 2,039 | 🐛 12 | 🌐 Ruby | 📅 2026-09-02 - high-level API to control Chrome in Ruby
+* Ruby: [Cuprite](https://github.com/machinio/cuprite) ⭐ 1,395 | 🐛 29 | 🌐 Ruby | 📅 2026-08-25 - Capybara driver
 * PHP: [PuPHPeteer](https://github.com/rialto-php/puphpeteer) ⚠️ Archived - PHP bridge to node Puppeteer
 * Java: [jvppeteer](https://github.com/fanyong920/jvppeteer) ⭐ 805 | 🐛 14 | 🌐 Java | 📅 2026-07-24  - Headless Chrome For Java
 * Go: [cdp](https://github.com/mafredri/cdp) ⭐ 795 | 🐛 14 | 🌐 Go | 📅 2025-12-07
@@ -124,7 +124,7 @@
 
 #### iOS
 
-* [PonyDebugger](https://github.com/square/PonyDebugger) ⭐ 5,853 | 🐛 46 | 🌐 Objective-C | 📅 2023-03-18 - Remote network and data debugging iOS apps with Chrome DevTools.
+* [PonyDebugger](https://github.com/square/PonyDebugger) ⭐ 5,852 | 🐛 46 | 🌐 Objective-C | 📅 2023-03-18 - Remote network and data debugging iOS apps with Chrome DevTools.
 
 #### Node.js
 
@@ -156,7 +156,7 @@
 
 ### Workflow
 
-* [Vue.js Developer Tools](https://github.com/vuejs/vue-devtools) ⭐ 24,698 | 🐛 513 | 🌐 TypeScript | 📅 2024-09-11 - Inspect Vue.js components and manipulate their data.
+* [Vue.js Developer Tools](https://github.com/vuejs/vue-devtools) ⭐ 24,697 | 🐛 513 | 🌐 TypeScript | 📅 2024-09-11 - Inspect Vue.js components and manipulate their data.
 * [Insight](https://github.com/3Dparallax/insight/) ⭐ 914 | 🐛 22 | 🌐 JavaScript | 📅 2021-09-30 - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
 * [BEM devtools](https://github.com/escaton/bem-chrome-devtools) ⭐ 47 | 🐛 3 | 🌐 JavaScript | 📅 2017-09-26 - Inspect BEM entities expressed in `i-bem` framework.
 * [Clockwork](https://chromewebstore.google.com/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - View PHP application profiling data.
@@ -197,4 +197,4 @@ Old projects, likely not maintained any longer… But still cool.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
