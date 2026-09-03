@@ -258,10 +258,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-02-14T03:51:52Z",
-                "open_issues": 1249,
+                "open_issues": 1252,
                 "owner": "microsoft",
                 "repo": "vscode-edge-devtools",
-                "stars": 827,
+                "stars": 826,
                 "topics": [
                   "developertools",
                   "microsoft-edge-browser",
@@ -321,11 +321,11 @@
             "id": 86491149,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T07:01:43Z",
+            "last_commit": "2026-09-03T05:31:28Z",
             "open_issues": 8,
             "owner": "ChromeDevTools",
             "repo": "devtools-protocol",
-            "stars": 1539,
+            "stars": 1540,
             "topics": []
           },
           "first_seen": "2026-08-28T17:14:03.767Z"
@@ -348,7 +348,7 @@
                 "open_issues": 12,
                 "owner": "cyrus-and",
                 "repo": "chrome-remote-interface",
-                "stars": 4552,
+                "stars": 4551,
                 "topics": [
                   "browser",
                   "chrome-debugging-protocol",
@@ -380,7 +380,7 @@
                 "open_issues": 0,
                 "owner": "wendigo",
                 "repo": "chrome-protocol-proxy",
-                "stars": 251,
+                "stars": 252,
                 "topics": [
                   "chrome",
                   "chrome-browser",
@@ -402,37 +402,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Puppeteer",
-              "description": "Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also awesome-puppeteer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "JavaScript API for Chrome and Firefox",
-                "homepage": "https://pptr.dev",
-                "id": 90796663,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-02T06:22:01Z",
-                "open_issues": 264,
-                "owner": "puppeteer",
-                "repo": "puppeteer",
-                "stars": 95536,
-                "topics": [
-                  "automation",
-                  "chrome",
-                  "chromium",
-                  "developer-tools",
-                  "firefox",
-                  "headless-chrome",
-                  "node-module",
-                  "testing",
-                  "web"
-                ]
-              },
-              "first_seen": "2026-08-28T17:14:03.767Z"
-            },
-            {
-              "node_type": "item",
               "title": "Playwright",
               "description": "Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also awesome-playwright.",
               "children": [],
@@ -443,11 +412,11 @@
                 "id": 221981891,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T07:39:17Z",
-                "open_issues": 180,
+                "last_commit": "2026-09-03T07:34:14Z",
+                "open_issues": 190,
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 95519,
+                "stars": 95557,
                 "topics": [
                   "automation",
                   "chrome",
@@ -464,6 +433,37 @@
                   "testing-tools",
                   "web",
                   "webkit"
+                ]
+              },
+              "first_seen": "2026-08-28T17:14:03.767Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Puppeteer",
+              "description": "Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also awesome-puppeteer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "JavaScript API for Chrome and Firefox",
+                "homepage": "https://pptr.dev",
+                "id": 90796663,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-03T09:15:15Z",
+                "open_issues": 260,
+                "owner": "puppeteer",
+                "repo": "puppeteer",
+                "stars": 95536,
+                "topics": [
+                  "automation",
+                  "chrome",
+                  "chromium",
+                  "developer-tools",
+                  "firefox",
+                  "headless-chrome",
+                  "node-module",
+                  "testing",
+                  "web"
                 ]
               },
               "first_seen": "2026-08-28T17:14:03.767Z"
@@ -520,7 +520,7 @@
                 "open_issues": 210,
                 "owner": "go-rod",
                 "repo": "rod",
-                "stars": 7083,
+                "stars": 7087,
                 "topics": [
                   "automation",
                   "cdp",
@@ -559,7 +559,7 @@
                 "open_issues": 12,
                 "owner": "cyrus-and",
                 "repo": "chrome-remote-interface",
-                "stars": 4552,
+                "stars": 4551,
                 "topics": [
                   "browser",
                   "chrome-debugging-protocol",
@@ -673,7 +673,7 @@
                 "id": 198371388,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-02T07:54:26Z",
+                "last_commit": "2026-09-02T19:32:25Z",
                 "open_issues": 12,
                 "owner": "rubycdp",
                 "repo": "ferrum",
@@ -737,7 +737,7 @@
                 "open_issues": 64,
                 "owner": "rialto-php",
                 "repo": "puphpeteer",
-                "stars": 1331,
+                "stars": 1329,
                 "topics": [
                   "automation",
                   "developer-tools",
@@ -1094,7 +1094,7 @@
                 "id": 304337222,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-08-28T16:31:24Z",
+                "last_commit": "2026-09-03T08:46:15Z",
                 "open_issues": 10,
                 "owner": "joffrey-bion",
                 "repo": "chrome-devtools-kotlin",
@@ -1236,7 +1236,7 @@
                 "open_issues": 8,
                 "owner": "Nice-PLQ",
                 "repo": "devtools-remote-debugger",
-                "stars": 417,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1473,7 +1473,7 @@
                 "open_issues": 0,
                 "owner": "BrowserBox",
                 "repo": "BrowserBox",
-                "stars": 3903,
+                "stars": 3902,
                 "topics": [
                   "browser",
                   "cdr",
@@ -1547,8 +1547,8 @@
                 "id": 229236549,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-09T11:12:16Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-03T01:13:32Z",
+                "open_issues": 4,
                 "owner": "DO-SAY-GO",
                 "repo": "tdf",
                 "stars": 3907,
@@ -1820,7 +1820,7 @@
             "open_issues": 20,
             "owner": "google",
             "repo": "ios-webkit-debug-proxy",
-            "stars": 6202,
+            "stars": 6203,
             "topics": []
           },
           "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1965,7 +1965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:23:06.145Z",
+    "last_updated": "2026-09-03T09:32:53.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
@@ -1977,7 +1977,7 @@
       "open_issues": 25,
       "owner": "ChromeDevTools",
       "repo": "awesome-chrome-devtools",
-      "stars": 7129,
+      "stars": 7132,
       "topics": [
         "awesome",
         "awesome-list"
