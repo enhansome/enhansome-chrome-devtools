@@ -38,7 +38,7 @@
 
 ### CPU profile
 
-* [cpuprofilify](https://github.com/thlorenz/cpuprofilify) ⭐ 169 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-20 - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
+* [cpuprofilify](https://github.com/thlorenz/cpuprofilify) ⭐ 170 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-20 - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
 * [call-trace](https://github.com/brendankenny/call-trace) ⭐ 43 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01 - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
 * [Wishbone Python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - Profiling data can export as `.cpuprofile`.
 
@@ -53,7 +53,7 @@
 ### Chrome Debugger integration with Editors
 
 * [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) ⚠️ Archived - Breakpoint debugging in VS Code.
-* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 826 | 🐛 1,262 | 🌐 TypeScript | 📅 2026-09-03 - Elements panel inside VS Code.
+* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 826 | 🐛 1,265 | 🌐 TypeScript | 📅 2026-09-03 - Elements panel inside VS Code.
 * [ChromeREPL](https://github.com/acarabott/ChromeREPL) ⭐ 357 | 🐛 3 | 🌐 Python | 📅 2018-06-12 - Within Sublime Text, use the Chrome console.
 * [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
 * [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
@@ -67,24 +67,24 @@
 
 ### Developing with the protocol
 
-* [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) ⭐ 4,552 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09 - Many useful recipes.
+* [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) ⭐ 4,553 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09 - Many useful recipes.
 * [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) ⭐ 251 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Tool for debugging clients using devtools protocol.
 
 ### The big two automation libraries
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,645 | 🐛 180 | 🌐 TypeScript | 📅 2026-09-04 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,569 | 🐛 2 | 📅 2026-09-02.
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,547 | 🐛 260 | 🌐 TypeScript | 📅 2026-09-05 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,575 | 🐛 25 | 📅 2024-07-19.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,704 | 🐛 184 | 🌐 TypeScript | 📅 2026-09-04 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,569 | 🐛 2 | 📅 2026-09-02.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,558 | 🐛 263 | 🌐 TypeScript | 📅 2026-09-06 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,575 | 🐛 25 | 📅 2024-07-19.
 
 ### Libraries for driving the protocol (or a layer above)
 
-* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,270 | 🐛 180 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
-* Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,090 | 🐛 210 | 🌐 Go | 📅 2026-08-11
-* JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,552 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
+* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,271 | 🐛 180 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
+* Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,091 | 🐛 211 | 🌐 Go | 📅 2026-08-11
+* JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,553 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
 * Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,941 | 🐛 212 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
-* C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,917 | 🐛 13 | 🌐 C# | 📅 2026-09-04 - Puppeteer port
+* C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,917 | 🐛 11 | 🌐 C# | 📅 2026-09-05 - Puppeteer port
 * TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/) ⭐ 3,674 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-01
-* Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 2,041 | 🐛 9 | 🌐 Ruby | 📅 2026-09-04 - high-level API to control Chrome in Ruby
-* Ruby: [Cuprite](https://github.com/machinio/cuprite) ⭐ 1,395 | 🐛 29 | 🌐 Ruby | 📅 2026-09-03 - Capybara driver
+* Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 2,041 | 🐛 10 | 🌐 Ruby | 📅 2026-09-04 - high-level API to control Chrome in Ruby
+* Ruby: [Cuprite](https://github.com/machinio/cuprite) ⭐ 1,395 | 🐛 30 | 🌐 Ruby | 📅 2026-09-03 - Capybara driver
 * PHP: [PuPHPeteer](https://github.com/rialto-php/puphpeteer) ⚠️ Archived - PHP bridge to node Puppeteer
 * Java: [jvppeteer](https://github.com/fanyong920/jvppeteer) ⭐ 805 | 🐛 14 | 🌐 Java | 📅 2026-07-24  - Headless Chrome For Java
 * Go: [cdp](https://github.com/mafredri/cdp) ⭐ 795 | 🐛 14 | 🌐 Go | 📅 2025-12-07
@@ -124,7 +124,7 @@
 
 #### iOS
 
-* [PonyDebugger](https://github.com/square/PonyDebugger) ⭐ 5,852 | 🐛 46 | 🌐 Objective-C | 📅 2023-03-18 - Remote network and data debugging iOS apps with Chrome DevTools.
+* [PonyDebugger](https://github.com/square/PonyDebugger) ⭐ 5,850 | 🐛 46 | 🌐 Objective-C | 📅 2023-03-18 - Remote network and data debugging iOS apps with Chrome DevTools.
 
 #### Node.js
 
@@ -143,7 +143,7 @@
 
 ### Browsers
 
-* [BrowserBox](https://github.com/BrowserBox/BrowserBox) ⭐ 3,903 | 🐛 0 | 🌐 Shell | 📅 2026-08-26 - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
+* [BrowserBox](https://github.com/BrowserBox/BrowserBox) ⭐ 3,904 | 🐛 0 | 🌐 Shell | 📅 2026-08-26 - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
 * [Puppetromium](https://github.com/dosyago/puppetromium) ⭐ 64 | 🐛 1 | 🌐 JavaScript | 📅 2023-07-23 - A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.
 
 ### Web Archivers and Indexers
@@ -186,7 +186,7 @@
 
 Old projects, likely not maintained any longer… But still cool.
 
-* [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) ⭐ 6,203 | 🐛 20 | 🌐 C | 📅 2025-07-02 - Exposes Mobile Safari & UIWebView instances via the CDP.
+* [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) ⭐ 6,202 | 🐛 20 | 🌐 C | 📅 2025-07-02 - Exposes Mobile Safari & UIWebView instances via the CDP.
   * [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) ⚠️ Archived - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
 * Python CDP driver: [pychrome](https://github.com/fate0/pychrome) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2024-06-17 - low level CDP transport handler
 * [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) ⚠️ Archived - Protocol adaptor for Microsoft IE 11 to CDP.
@@ -197,4 +197,4 @@ Old projects, likely not maintained any longer… But still cool.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
