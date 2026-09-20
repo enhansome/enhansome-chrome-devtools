@@ -123,7 +123,7 @@
                 "open_issues": 22,
                 "owner": "kdzwinel",
                 "repo": "betwixt",
-                "stars": 4556,
+                "stars": 4557,
                 "topics": [
                   "capture-traffic",
                   "chrome-devtools",
@@ -258,10 +258,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-15T20:03:19Z",
-                "open_issues": 160,
+                "open_issues": 161,
                 "owner": "microsoft",
                 "repo": "vscode-edge-devtools",
-                "stars": 827,
+                "stars": 828,
                 "topics": [
                   "developertools",
                   "microsoft-edge-browser",
@@ -325,7 +325,7 @@
             "open_issues": 8,
             "owner": "ChromeDevTools",
             "repo": "devtools-protocol",
-            "stars": 1549,
+            "stars": 1550,
             "topics": []
           },
           "first_seen": "2026-08-28T17:14:03.767Z"
@@ -348,7 +348,7 @@
                 "open_issues": 12,
                 "owner": "cyrus-and",
                 "repo": "chrome-remote-interface",
-                "stars": 4554,
+                "stars": 4553,
                 "topics": [
                   "browser",
                   "chrome-debugging-protocol",
@@ -412,11 +412,11 @@
                 "id": 221981891,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T01:59:22Z",
-                "open_issues": 191,
+                "last_commit": "2026-09-20T01:47:13Z",
+                "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 96341,
+                "stars": 96393,
                 "topics": [
                   "automation",
                   "chrome",
@@ -449,11 +449,11 @@
                 "id": 90796663,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T16:52:42Z",
-                "open_issues": 260,
+                "last_commit": "2026-09-20T02:07:16Z",
+                "open_issues": 265,
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95593,
+                "stars": 95594,
                 "topics": [
                   "automation",
                   "chrome",
@@ -491,7 +491,7 @@
                 "open_issues": 180,
                 "owner": "chromedp",
                 "repo": "chromedp",
-                "stars": 13280,
+                "stars": 13282,
                 "topics": [
                   "chrome",
                   "chrome-debugging-protocol",
@@ -559,7 +559,7 @@
                 "open_issues": 12,
                 "owner": "cyrus-and",
                 "repo": "chrome-remote-interface",
-                "stars": 4554,
+                "stars": 4553,
                 "topics": [
                   "browser",
                   "chrome-debugging-protocol",
@@ -591,7 +591,7 @@
                 "open_issues": 212,
                 "owner": "pyppeteer",
                 "repo": "pyppeteer",
-                "stars": 3941,
+                "stars": 3942,
                 "topics": [
                   "automation",
                   "chromium",
@@ -644,11 +644,11 @@
                 "id": 108502821,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T08:59:01Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-19T15:08:08Z",
+                "open_issues": 51,
                 "owner": "getgauge",
                 "repo": "taiko",
-                "stars": 3675,
+                "stars": 3674,
                 "topics": [
                   "automation",
                   "headless",
@@ -915,7 +915,7 @@
                 "id": 111571114,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-19T03:01:59Z",
+                "last_commit": "2026-09-20T03:02:07Z",
                 "open_issues": 20,
                 "owner": "jakubkulhan",
                 "repo": "chrome-devtools-protocol",
@@ -1473,7 +1473,7 @@
                 "open_issues": 0,
                 "owner": "BrowserBox",
                 "repo": "BrowserBox",
-                "stars": 3914,
+                "stars": 3916,
                 "topics": [
                   "browser",
                   "cdr",
@@ -1551,7 +1551,7 @@
                 "open_issues": 4,
                 "owner": "DO-SAY-GO",
                 "repo": "tdf",
-                "stars": 3909,
+                "stars": 3908,
                 "topics": [
                   "archive",
                   "archiver",
@@ -1598,7 +1598,7 @@
                 "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24692,
+                "stars": 24691,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1817,10 +1817,10 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2025-07-02T07:34:34Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "google",
             "repo": "ios-webkit-debug-proxy",
-            "stars": 6205,
+            "stars": 6204,
             "topics": []
           },
           "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1965,7 +1965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:18:19.813Z",
+    "last_updated": "2026-09-20T09:40:16.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
