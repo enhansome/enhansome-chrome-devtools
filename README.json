@@ -325,7 +325,7 @@
             "open_issues": 8,
             "owner": "ChromeDevTools",
             "repo": "devtools-protocol",
-            "stars": 1550,
+            "stars": 1552,
             "topics": []
           },
           "first_seen": "2026-08-28T17:14:03.767Z"
@@ -380,7 +380,7 @@
                 "open_issues": 0,
                 "owner": "wendigo",
                 "repo": "chrome-protocol-proxy",
-                "stars": 251,
+                "stars": 252,
                 "topics": [
                   "chrome",
                   "chrome-browser",
@@ -412,11 +412,11 @@
                 "id": 221981891,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T01:47:13Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-21T10:11:50Z",
+                "open_issues": 224,
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 96393,
+                "stars": 96442,
                 "topics": [
                   "automation",
                   "chrome",
@@ -449,11 +449,11 @@
                 "id": 90796663,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T02:07:16Z",
-                "open_issues": 265,
+                "last_commit": "2026-09-21T08:24:42Z",
+                "open_issues": 264,
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95594,
+                "stars": 95605,
                 "topics": [
                   "automation",
                   "chrome",
@@ -520,7 +520,7 @@
                 "open_issues": 212,
                 "owner": "go-rod",
                 "repo": "rod",
-                "stars": 7107,
+                "stars": 7108,
                 "topics": [
                   "automation",
                   "cdp",
@@ -1236,7 +1236,7 @@
                 "open_issues": 8,
                 "owner": "Nice-PLQ",
                 "repo": "devtools-remote-debugger",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1551,7 +1551,7 @@
                 "open_issues": 4,
                 "owner": "DO-SAY-GO",
                 "repo": "tdf",
-                "stars": 3908,
+                "stars": 3907,
                 "topics": [
                   "archive",
                   "archiver",
@@ -1598,7 +1598,7 @@
                 "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24691,
+                "stars": 24690,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1965,7 +1965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:40:16.049Z",
+    "last_updated": "2026-09-21T10:33:17.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
@@ -1977,7 +1977,7 @@
       "open_issues": 26,
       "owner": "ChromeDevTools",
       "repo": "awesome-chrome-devtools",
-      "stars": 7147,
+      "stars": 7146,
       "topics": [
         "awesome",
         "awesome-list"

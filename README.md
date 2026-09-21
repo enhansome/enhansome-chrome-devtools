@@ -62,23 +62,23 @@
 
 ## Chrome DevTools Protocol
 
-* [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) ⭐ 1,550 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-19 - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
+* [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) ⭐ 1,552 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-19 - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
 * [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events.
 
 ### Developing with the protocol
 
 * [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) ⭐ 4,553 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09 - Many useful recipes.
-* [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) ⭐ 251 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Tool for debugging clients using devtools protocol.
+* [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) ⭐ 252 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Tool for debugging clients using devtools protocol.
 
 ### The big two automation libraries
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 96,393 | 🐛 202 | 🌐 TypeScript | 📅 2026-09-20 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,578 | 🐛 0 | 📅 2026-09-20.
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,594 | 🐛 265 | 🌐 TypeScript | 📅 2026-09-20 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,578 | 🐛 25 | 📅 2024-07-19.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 96,442 | 🐛 224 | 🌐 TypeScript | 📅 2026-09-21 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,579 | 🐛 0 | 📅 2026-09-20.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,605 | 🐛 264 | 🌐 TypeScript | 📅 2026-09-21 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,579 | 🐛 25 | 📅 2024-07-19.
 
 ### Libraries for driving the protocol (or a layer above)
 
 * Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,282 | 🐛 180 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
-* Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,107 | 🐛 212 | 🌐 Go | 📅 2026-08-11
+* Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,108 | 🐛 212 | 🌐 Go | 📅 2026-08-11
 * JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,553 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
 * Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,942 | 🐛 212 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
 * C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,921 | 🐛 12 | 🌐 C# | 📅 2026-09-17 - Puppeteer port
@@ -108,7 +108,7 @@
 
 ### Browser Adapters
 
-* [devtools-remote-debugger](https://github.com/Nice-PLQ/devtools-remote-debugger) ⭐ 418 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-14 - Use devtools against a webpage; a CDP agent implemeted in client-side JS.
+* [devtools-remote-debugger](https://github.com/Nice-PLQ/devtools-remote-debugger) ⭐ 419 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-14 - Use devtools against a webpage; a CDP agent implemeted in client-side JS.
 * [Inspect](https://inspect.dev/) - Use devtools against iOS and Android, easily. Browser and Webviews. **(closed source)**
 
 ## Using DevTools frontend with other platforms
@@ -148,7 +148,7 @@
 
 ### Web Archivers and Indexers
 
-* [dn](https://github.com/dosyago/dn) ⭐ 3,908 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-09 - Archive and index pages you browse for offline viewing and search, implemented using the `Fetch` domain's interceptions, and works with any Chromium-based browser.
+* [dn](https://github.com/dosyago/dn) ⭐ 3,907 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-09 - Archive and index pages you browse for offline viewing and search, implemented using the `Fetch` domain's interceptions, and works with any Chromium-based browser.
 
 ***
 
@@ -156,7 +156,7 @@
 
 ### Workflow
 
-* [Vue.js Developer Tools](https://github.com/vuejs/vue-devtools) ⭐ 24,691 | 🐛 513 | 🌐 TypeScript | 📅 2024-09-11 - Inspect Vue.js components and manipulate their data.
+* [Vue.js Developer Tools](https://github.com/vuejs/vue-devtools) ⭐ 24,690 | 🐛 513 | 🌐 TypeScript | 📅 2024-09-11 - Inspect Vue.js components and manipulate their data.
 * [Insight](https://github.com/3Dparallax/insight/) ⭐ 915 | 🐛 22 | 🌐 JavaScript | 📅 2021-09-30 - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
 * [BEM devtools](https://github.com/escaton/bem-chrome-devtools) ⭐ 47 | 🐛 3 | 🌐 JavaScript | 📅 2017-09-26 - Inspect BEM entities expressed in `i-bem` framework.
 * [Clockwork](https://chromewebstore.google.com/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - View PHP application profiling data.
@@ -197,4 +197,4 @@ Old projects, likely not maintained any longer… But still cool.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
