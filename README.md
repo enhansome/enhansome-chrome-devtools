@@ -53,7 +53,7 @@
 ### Chrome Debugger integration with Editors
 
 * [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) ⚠️ Archived - Breakpoint debugging in VS Code.
-* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 827 | 🐛 166 | 🌐 TypeScript | 📅 2026-09-15 - Elements panel inside VS Code.
+* [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) ⭐ 828 | 🐛 166 | 🌐 TypeScript | 📅 2026-09-15 - Elements panel inside VS Code.
 * [ChromeREPL](https://github.com/acarabott/ChromeREPL) ⭐ 357 | 🐛 3 | 🌐 Python | 📅 2018-06-12 - Within Sublime Text, use the Chrome console.
 * [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
 * [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
@@ -62,28 +62,28 @@
 
 ## Chrome DevTools Protocol
 
-* [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) ⭐ 1,560 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-28 - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
+* [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) ⭐ 1,560 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-30 - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
 * [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events.
 
 ### Developing with the protocol
 
-* [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) ⭐ 4,555 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09 - Many useful recipes.
+* [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) ⭐ 4,556 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09 - Many useful recipes.
 * [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) ⭐ 252 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Tool for debugging clients using devtools protocol.
 
 ### The big two automation libraries
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 96,859 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-29 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,584 | 🐛 16 | 📅 2026-09-20.
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,636 | 🐛 275 | 🌐 TypeScript | 📅 2026-09-29 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,582 | 🐛 27 | 📅 2024-07-19.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 96,911 | 🐛 206 | 🌐 TypeScript | 📅 2026-09-30 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,585 | 🐛 16 | 📅 2026-09-20.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,641 | 🐛 275 | 🌐 TypeScript | 📅 2026-09-30 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,582 | 🐛 27 | 📅 2024-07-19.
 
 ### Libraries for driving the protocol (or a layer above)
 
-* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,289 | 🐛 180 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
-* Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,115 | 🐛 214 | 🌐 Go | 📅 2026-08-11
-* JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,555 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
-* Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,945 | 🐛 212 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
-* C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,923 | 🐛 12 | 🌐 C# | 📅 2026-09-24 - Puppeteer port
-* TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/) ⭐ 3,674 | 🐛 52 | 🌐 JavaScript | 📅 2026-09-29
-* Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 2,057 | 🐛 10 | 🌐 Ruby | 📅 2026-09-28 - high-level API to control Chrome in Ruby
+* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,290 | 🐛 180 | 🌐 Go | 📅 2026-07-14 - High-level actions and tasks for driving browsers
+* Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,116 | 🐛 214 | 🌐 Go | 📅 2026-08-11
+* JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,556 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
+* Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,944 | 🐛 212 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
+* C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,922 | 🐛 12 | 🌐 C# | 📅 2026-09-24 - Puppeteer port
+* TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/) ⭐ 3,674 | 🐛 53 | 🌐 JavaScript | 📅 2026-09-29
+* Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 2,059 | 🐛 10 | 🌐 Ruby | 📅 2026-09-28 - high-level API to control Chrome in Ruby
 * Ruby: [Cuprite](https://github.com/machinio/cuprite) ⭐ 1,397 | 🐛 33 | 🌐 Ruby | 📅 2026-09-03 - Capybara driver
 * PHP: [PuPHPeteer](https://github.com/rialto-php/puphpeteer) ⚠️ Archived - PHP bridge to node Puppeteer
 * Java: [jvppeteer](https://github.com/fanyong920/jvppeteer) ⭐ 805 | 🐛 14 | 🌐 Java | 📅 2026-09-28  - Headless Chrome For Java
@@ -94,12 +94,12 @@
 * Go: [gcd](https://github.com/wirepair/gcd) ⭐ 187 | 🐛 2 | 🌐 Go | 📅 2024-10-16
 * PHP: [chrome-devtools-protocol](https://github.com/jakubkulhan/chrome-devtools-protocol) ⭐ 185 | 🐛 20 | 🌐 PHP | 📅 2026-09-27 - A PHP client library for the protocol.
 * Python: [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol) ⭐ 147 | 🐛 161 | 🌐 Python | 📅 2026-06-03 - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol) ⭐ 72 | 🐛 72 | 🌐 Python | 📅 2026-04-08
-* TypeScript/Node.js: [chrome-debugging-client](https://github.com/TracerBench/chrome-debugging-client) ⭐ 134 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-15
+* TypeScript/Node.js: [chrome-debugging-client](https://github.com/TracerBench/chrome-debugging-client) ⭐ 135 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-15
 * Clojure: [clj-chrome-devtools](https://github.com/tatut/clj-chrome-devtools) ⭐ 134 | 🐛 4 | 🌐 Clojure | 📅 2024-09-16 - The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.
 * Python: [chromewhip](https://github.com/chuckus/chromewhip) ⭐ 120 | 🐛 17 | 🌐 Python | 📅 2023-08-29 - drop-in replacement for the `splash` service
 * C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) ⭐ 81 | 🐛 9 | 🌐 C# | 📅 2023-11-23 - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 * Kotlin: [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) ⭐ 77 | 🐛 3 | 🌐 Kotlin | 📅 2021-11-04 - reactive (rxjava 2.x), low-level client library in Kotlin
-* Kotlin: [chrome-devtools-kotlin](https://github.com/joffrey-bion/chrome-devtools-kotlin) ⭐ 62 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-26 - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
+* Kotlin: [chrome-devtools-kotlin](https://github.com/joffrey-bion/chrome-devtools-kotlin) ⭐ 62 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-30 - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 * TypeScript/Node.js: [Lumen](https://github.com/omxyz/lumen) ⭐ 57 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-30 - Vision-first browser agent with self-healing deterministic replay over CDP.
 * Clojure: [cuic](https://github.com/milankinen/cuic) ⭐ 38 | 🐛 4 | 🌐 Clojure | 📅 2025-02-11 - Providing a high-level API for UI test automation over the DevTools Protocol.
 * C#/.NET: [dotnet-chrome-protocol](https://github.com/seclerp/dotnet-chrome-protocol) ⭐ 31 | 🐛 8 | 🌐 C# | 📅 2026-09-06 - A runtime library and schema code generation tools for Chrome DevTools Protocol support in C#/.NET.
@@ -124,7 +124,7 @@
 
 #### iOS
 
-* [PonyDebugger](https://github.com/square/PonyDebugger) ⭐ 5,847 | 🐛 46 | 🌐 Objective-C | 📅 2023-03-18 - Remote network and data debugging iOS apps with Chrome DevTools.
+* [PonyDebugger](https://github.com/square/PonyDebugger) ⭐ 5,848 | 🐛 46 | 🌐 Objective-C | 📅 2023-03-18 - Remote network and data debugging iOS apps with Chrome DevTools.
 
 #### Node.js
 
@@ -143,7 +143,7 @@
 
 ### Browsers
 
-* [BrowserBox](https://github.com/BrowserBox/BrowserBox) ⭐ 3,915 | 🐛 0 | 🌐 Shell | 📅 2026-09-29 - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
+* [BrowserBox](https://github.com/BrowserBox/BrowserBox) ⭐ 3,914 | 🐛 0 | 🌐 Shell | 📅 2026-09-29 - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
 * [Puppetromium](https://github.com/dosyago/puppetromium) ⭐ 64 | 🐛 1 | 🌐 JavaScript | 📅 2023-07-23 - A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.
 
 ### Web Archivers and Indexers
@@ -186,7 +186,7 @@
 
 Old projects, likely not maintained any longer… But still cool.
 
-* [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) ⭐ 6,203 | 🐛 21 | 🌐 C | 📅 2025-07-02 - Exposes Mobile Safari & UIWebView instances via the CDP.
+* [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) ⭐ 6,204 | 🐛 21 | 🌐 C | 📅 2025-07-02 - Exposes Mobile Safari & UIWebView instances via the CDP.
   * [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) ⚠️ Archived - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
 * Python CDP driver: [pychrome](https://github.com/fate0/pychrome) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2024-06-17 - low level CDP transport handler
 * [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) ⚠️ Archived - Protocol adaptor for Microsoft IE 11 to CDP.
@@ -197,4 +197,4 @@ Old projects, likely not maintained any longer… But still cool.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
