@@ -62,7 +62,7 @@
 
 ## Chrome DevTools Protocol
 
-* [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) ⭐ 1,564 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-02 - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
+* [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) ⭐ 1,565 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-03 - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
 * [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events.
 
 ### Developing with the protocol
@@ -72,12 +72,12 @@
 
 ### The big two automation libraries
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,022 | 🐛 205 | 🌐 TypeScript | 📅 2026-10-03 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,586 | 🐛 1 | 📅 2026-10-02.
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,644 | 🐛 272 | 🌐 TypeScript | 📅 2026-10-02 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,583 | 🐛 27 | 📅 2024-07-19.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,030 | 🐛 205 | 🌐 TypeScript | 📅 2026-10-03 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,586 | 🐛 1 | 📅 2026-10-02.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,645 | 🐛 272 | 🌐 TypeScript | 📅 2026-10-03 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,583 | 🐛 27 | 📅 2024-07-19.
 
 ### Libraries for driving the protocol (or a layer above)
 
-* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,295 | 🐛 180 | 🌐 Go | 📅 2026-10-03 - High-level actions and tasks for driving browsers
+* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,296 | 🐛 180 | 🌐 Go | 📅 2026-10-03 - High-level actions and tasks for driving browsers
 * Go: [Rod](https://github.com/go-rod/rod) ⭐ 7,117 | 🐛 214 | 🌐 Go | 📅 2026-08-11
 * JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,555 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
 * Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,944 | 🐛 212 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
@@ -99,7 +99,7 @@
 * Python: [chromewhip](https://github.com/chuckus/chromewhip) ⭐ 120 | 🐛 17 | 🌐 Python | 📅 2023-08-29 - drop-in replacement for the `splash` service
 * C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) ⭐ 80 | 🐛 9 | 🌐 C# | 📅 2023-11-23 - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 * Kotlin: [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) ⭐ 77 | 🐛 3 | 🌐 Kotlin | 📅 2021-11-04 - reactive (rxjava 2.x), low-level client library in Kotlin
-* Kotlin: [chrome-devtools-kotlin](https://github.com/joffrey-bion/chrome-devtools-kotlin) ⭐ 62 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-02 - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
+* Kotlin: [chrome-devtools-kotlin](https://github.com/joffrey-bion/chrome-devtools-kotlin) ⭐ 62 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-03 - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 * TypeScript/Node.js: [Lumen](https://github.com/omxyz/lumen) ⭐ 57 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-30 - Vision-first browser agent with self-healing deterministic replay over CDP.
 * Clojure: [cuic](https://github.com/milankinen/cuic) ⭐ 38 | 🐛 4 | 🌐 Clojure | 📅 2025-02-11 - Providing a high-level API for UI test automation over the DevTools Protocol.
 * C#/.NET: [dotnet-chrome-protocol](https://github.com/seclerp/dotnet-chrome-protocol) ⭐ 31 | 🐛 8 | 🌐 C# | 📅 2026-09-06 - A runtime library and schema code generation tools for Chrome DevTools Protocol support in C#/.NET.
