@@ -234,7 +234,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "vscode-chrome-debug",
-                "stars": 2199,
+                "stars": 2198,
                 "topics": [
                   "chrome",
                   "chrome-debugging-protocol",
@@ -325,7 +325,7 @@
             "open_issues": 8,
             "owner": "ChromeDevTools",
             "repo": "devtools-protocol",
-            "stars": 1561,
+            "stars": 1564,
             "topics": []
           },
           "first_seen": "2026-08-28T17:14:03.767Z"
@@ -380,7 +380,7 @@
                 "open_issues": 0,
                 "owner": "wendigo",
                 "repo": "chrome-protocol-proxy",
-                "stars": 252,
+                "stars": 253,
                 "topics": [
                   "chrome",
                   "chrome-browser",
@@ -412,11 +412,11 @@
                 "id": 221981891,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T01:38:51Z",
-                "open_issues": 200,
+                "last_commit": "2026-10-03T00:21:53Z",
+                "open_issues": 205,
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 96994,
+                "stars": 97022,
                 "topics": [
                   "automation",
                   "chrome",
@@ -449,11 +449,11 @@
                 "id": 90796663,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:13:56Z",
+                "last_commit": "2026-10-02T16:26:37Z",
                 "open_issues": 272,
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95646,
+                "stars": 95644,
                 "topics": [
                   "automation",
                   "chrome",
@@ -487,11 +487,11 @@
                 "id": 79921099,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-07-14T21:56:36Z",
+                "last_commit": "2026-10-03T04:17:19Z",
                 "open_issues": 180,
                 "owner": "chromedp",
                 "repo": "chromedp",
-                "stars": 13291,
+                "stars": 13295,
                 "topics": [
                   "chrome",
                   "chrome-debugging-protocol",
@@ -507,7 +507,7 @@
             {
               "node_type": "item",
               "title": "Go: Rod",
-              "description": null,
+              "description": "go-rod/rod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -546,7 +546,7 @@
             {
               "node_type": "item",
               "title": "JavaScript/Node.js: chrome-remote-interface",
-              "description": null,
+              "description": "cyrus-and/chrome-remote-interface",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -616,7 +616,7 @@
                 "open_issues": 12,
                 "owner": "hardkoded",
                 "repo": "puppeteer-sharp",
-                "stars": 3922,
+                "stars": 3921,
                 "topics": [
                   "automation",
                   "chrome",
@@ -635,7 +635,7 @@
             {
               "node_type": "item",
               "title": "TypeScript/Node.js: Taiko",
-              "description": null,
+              "description": "getgauge/taiko",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -644,8 +644,8 @@
                 "id": 108502821,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:36:19Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-02T21:25:22Z",
+                "open_issues": 54,
                 "owner": "getgauge",
                 "repo": "taiko",
                 "stars": 3674,
@@ -782,7 +782,7 @@
             {
               "node_type": "item",
               "title": "Go: cdp",
-              "description": null,
+              "description": "mafredri/cdp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -810,7 +810,7 @@
             {
               "node_type": "item",
               "title": "Go: godet",
-              "description": null,
+              "description": "raff/godet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -831,7 +831,7 @@
             {
               "node_type": "item",
               "title": "Java: chrome-devtools-java-client",
-              "description": null,
+              "description": "kklisura/chrome-devtools-java-client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -885,7 +885,7 @@
             {
               "node_type": "item",
               "title": "Go: gcd",
-              "description": null,
+              "description": "wirepair/gcd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -956,7 +956,7 @@
             {
               "node_type": "item",
               "title": "TypeScript/Node.js: chrome-debugging-client",
-              "description": null,
+              "description": "TracerBench/chrome-debugging-client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1037,7 +1037,7 @@
                 "open_issues": 9,
                 "owner": "BaristaLabs",
                 "repo": "chrome-dev-tools-generator",
-                "stars": 81,
+                "stars": 80,
                 "topics": [
                   "chrome-debugger-protocol",
                   "chrome-debugging-protocol",
@@ -1195,7 +1195,7 @@
             {
               "node_type": "item",
               "title": "Rust: Rust Headless Chrome",
-              "description": null,
+              "description": "atroche/rust-headless-chrome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1381,7 +1381,7 @@
                 "open_issues": 55,
                 "owner": "GoogleChromeLabs",
                 "repo": "ndb",
-                "stars": 10863,
+                "stars": 10862,
                 "topics": [
                   "debugging",
                   "devtools",
@@ -1598,7 +1598,7 @@
                 "open_issues": 513,
                 "owner": "vuejs",
                 "repo": "devtools-v6",
-                "stars": 24682,
+                "stars": 24681,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:14:03.767Z"
@@ -1942,7 +1942,7 @@
         {
           "node_type": "item",
           "title": "go-debugger-devtools",
-          "description": null,
+          "description": "allada/gdd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1965,7 +1965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:58:09.777Z",
+    "last_updated": "2026-10-03T04:35:34.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
@@ -1977,7 +1977,7 @@
       "open_issues": 26,
       "owner": "ChromeDevTools",
       "repo": "awesome-chrome-devtools",
-      "stars": 7152,
+      "stars": 7154,
       "topics": [
         "awesome",
         "awesome-list"
