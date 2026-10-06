@@ -72,7 +72,7 @@
 
 ### The big two automation libraries
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,166 | 🐛 185 | 🌐 TypeScript | 📅 2026-10-05 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,587 | 🐛 5 | 📅 2026-10-02.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,168 | 🐛 185 | 🌐 TypeScript | 📅 2026-10-05 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,587 | 🐛 5 | 📅 2026-10-02.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 95,660 | 🐛 279 | 🌐 TypeScript | 📅 2026-10-06 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,583 | 🐛 27 | 📅 2024-07-19.
 
 ### Libraries for driving the protocol (or a layer above)

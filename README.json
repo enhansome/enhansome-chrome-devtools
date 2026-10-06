@@ -416,7 +416,7 @@
                 "open_issues": 185,
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 97166,
+                "stars": 97168,
                 "topics": [
                   "automation",
                   "chrome",
@@ -1094,7 +1094,7 @@
                 "id": 304337222,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:13:01Z",
+                "last_commit": "2026-10-06T11:11:34Z",
                 "open_issues": 11,
                 "owner": "joffrey-bion",
                 "repo": "chrome-devtools-kotlin",
@@ -1965,7 +1965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:53:10.828Z",
+    "last_updated": "2026-10-06T11:52:59.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
